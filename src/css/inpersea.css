@@ -3,13 +3,13 @@
     min-height: 1000px;
     height: fit-content;
     padding-bottom: 20px;
-}
-
-.content h1 {
-    padding-left: 20px;
     padding-top: 20px;
 }
-.content h2 {
+
+.content .home h1 {
+    text-align: center;
+}
+.content .home h2 {
     text-align: center;
 }
 
@@ -43,4 +43,47 @@
 
 .result-card {
     height: fit-content;
+}
+
+.detail-container {
+    padding: 20px;
+    margin: 40px;
+    background: #8cc787;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.detail-container h2 {
+    text-align: justify;
+}
+
+.detail-content {
+    max-width: fit-content;
+    height: fit-content;
+}
+
+
+.detail-content-detail .row .col-7 {
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    background: #a4da9f;
+    padding: 20px;
+    height: fit-content;
+}
+
+.detail-content-detail .row .col-4 {
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    background: #a4da9f;
+    height: fit-content;
+}
+
+.detail-content-detail .row .col-12 {
+    border-radius: rgba(10px, 10px, 0, 0);
+    border-bottom: 2px solid;
+    background: #a4da9f;
+    height: fit-content;
+
 }
