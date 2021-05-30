@@ -12,9 +12,11 @@
     "bootstrap": "^5.0.1",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
+    "qs": "^6.5.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vue-toast-notification": "^0.6.1"
+    "vue-toast-notification": "^0.6.1",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

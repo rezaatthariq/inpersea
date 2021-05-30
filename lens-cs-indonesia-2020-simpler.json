@@ -1,0 +1,4501 @@
+[
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3016616287" },
+      { "type": "doi", "value": "10.3844/jcssp.2020.439.451" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Science Publications",
+      "title_full": "Journal of Computer Science"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.thescipub.com/abstract/jcssp.2020.439.451"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "2999971873" },
+      { "type": "doi", "value": "10.1186/s40537-019-0277-1" }
+    ],
+    "references": [
+      { "lens_id": "009-647-913-790-700" },
+      { "lens_id": "013-271-862-678-920" },
+      { "lens_id": "013-415-270-793-263" },
+      { "lens_id": "013-680-145-363-165" },
+      { "lens_id": "019-275-383-080-485" },
+      { "lens_id": "019-469-471-155-972" },
+      { "lens_id": "041-199-494-744-040" },
+      { "lens_id": "050-423-221-933-030" },
+      { "lens_id": "055-744-969-178-783" },
+      { "lens_id": "068-193-314-418-436" },
+      { "lens_id": "075-116-641-019-912" },
+      { "lens_id": "077-734-435-266-833" },
+      { "lens_id": "078-953-156-595-841" },
+      { "lens_id": "092-323-148-447-284" },
+      { "lens_id": "098-592-363-416-628" },
+      { "lens_id": "108-288-385-567-886" },
+      { "lens_id": "110-938-954-451-044" },
+      { "lens_id": "116-631-591-520-443" },
+      { "lens_id": "126-035-514-687-356" },
+      { "lens_id": "131-893-542-634-608" },
+      { "lens_id": "137-141-253-948-009" },
+      { "lens_id": "163-436-356-436-541" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#SarnoSS20"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1186%2Fs40537-019-0277-1"
+      },
+      { "type": "html", "url": "https://doi.org/10.1186/s40537-019-0277-1" },
+      {
+        "type": "html",
+        "url": "https://www.scilit.net/article/e1ed03b1e44426a5eebd13e5519855f9"
+      },
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0277-1"
+      },
+      {
+        "type": "pdf",
+        "url": "https://link.springer.com/content/pdf/10.1186/s40537-019-0277-1.pdf"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "pii", "value": "s0019-0578(20)30234-2" },
+      { "type": "magid", "value": "3033338555" },
+      { "type": "pmid", "value": "32499085" },
+      { "type": "doi", "value": "10.1016/j.isatra.2020.05.046" }
+    ],
+    "references": [
+      { "lens_id": "003-818-662-255-230" },
+      { "lens_id": "004-752-791-912-855" },
+      { "lens_id": "007-540-706-023-653" },
+      { "lens_id": "009-575-600-508-831" },
+      { "lens_id": "010-541-146-670-838" },
+      { "lens_id": "011-567-794-080-790" },
+      { "lens_id": "014-623-960-035-067" },
+      { "lens_id": "019-141-359-671-476" },
+      { "lens_id": "019-811-761-679-740" },
+      { "lens_id": "035-541-966-402-676" },
+      { "lens_id": "036-857-654-799-771" },
+      { "lens_id": "036-905-408-582-394" },
+      { "lens_id": "060-828-677-835-533" },
+      { "lens_id": "079-718-919-923-484" },
+      { "lens_id": "082-282-018-020-863" },
+      { "lens_id": "084-792-358-182-300" },
+      { "lens_id": "085-410-657-897-699" },
+      { "lens_id": "096-804-910-377-939" },
+      { "lens_id": "098-180-001-799-827" },
+      { "lens_id": "107-533-313-190-661" },
+      { "lens_id": "112-091-970-922-725" },
+      { "lens_id": "112-119-618-534-119" },
+      { "lens_id": "113-454-097-574-186" },
+      { "lens_id": "133-146-670-967-064" },
+      { "lens_id": "147-444-358-313-123" },
+      { "lens_id": "151-937-524-000-596" },
+      { "lens_id": "152-079-369-764-112" },
+      { "lens_id": "180-635-962-915-700" }
+    ],
+    "source": {
+      "publisher": "ISA - Instrumentation, Systems, and Automation Society",
+      "title_full": "ISA transactions"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://www.ncbi.nlm.nih.gov/pubmed/32499085" },
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0019057820302342"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443099.3"
+            },
+            "name": "Indonesia University of Education"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          { "name": "Student of Postgraduate School of Educational Technology" }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3991/ijim.v14i20.14879" },
+      { "type": "magid", "value": "3111468756" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#RuhimatR20"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/14879/8363"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/14879/8363"
+      },
+      {
+        "type": "pdf",
+        "url": "https://online-journals.org/index.php/i-jim/article/viewFile/14879/8363"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/14879"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444659.e"
+            },
+            "name": "Yogyakarta State University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444659.e"
+            },
+            "name": "Yogyakarta State University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444659.e"
+            },
+            "name": "Yogyakarta State University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444659.e"
+            },
+            "name": "Yogyakarta State University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3088110910" },
+      { "type": "doi", "value": "10.3991/ijim.v14i16.14967" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/14967"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#MurdionoSRA20"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/14967"
+      },
+      { "type": "html", "url": "https://www.learntechlib.org/p/217811/" },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/14967/7879"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "name": "Universitas AMIKOM Yogyakarta, Jl. Ringroad Utara, Condong Catur Depok, Sleman Yogyakarta 55583, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.8570.a"
+            },
+            "name": "Gadjah Mada University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Universitas AMIKOM Yogyakarta, Jl. Ringroad Utara, Condong Catur Depok, Sleman Yogyakarta 55583, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Universitas AMIKOM Yogyakarta, Jl. Ringroad Utara, Condong Catur Depok, Sleman Yogyakarta 55583, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "PT. Bank Mandiri, Plaza Mandiri, 6th Floor., Jl. Jend, Gatot Subroto Kav 36-38, Jakarta 12190, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.4868.2"
+            },
+            "name": "Queen Mary University of London"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.4868.2"
+            },
+            "name": "Queen Mary University of London"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1016/j.compag.2020.105842" },
+      { "type": "magid", "value": "3106500619" }
+    ],
+    "references": [
+      { "lens_id": "000-113-979-253-074" },
+      { "lens_id": "000-150-299-991-21X" },
+      { "lens_id": "005-012-888-275-007" },
+      { "lens_id": "006-662-390-258-147" },
+      { "lens_id": "012-492-867-971-328" },
+      { "lens_id": "015-872-574-035-046" },
+      { "lens_id": "021-845-221-838-621" },
+      { "lens_id": "023-388-253-374-106" },
+      { "lens_id": "038-657-765-726-600" },
+      { "lens_id": "038-995-378-478-653" },
+      { "lens_id": "039-526-813-784-343" },
+      { "lens_id": "051-425-281-185-199" },
+      { "lens_id": "053-413-243-927-176" },
+      { "lens_id": "055-349-469-307-489" },
+      { "lens_id": "067-295-570-079-032" },
+      { "lens_id": "070-222-545-156-957" },
+      { "lens_id": "084-377-139-028-727" },
+      { "lens_id": "091-606-905-671-595" },
+      { "lens_id": "183-279-216-576-576" },
+      { "lens_id": "183-723-507-755-978" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "Computers and Electronics in Agriculture"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0168169919320800"
+      },
+      { "type": "html", "url": "https://doi.org/10.1016/j.compag.2020.105842" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Laboratory of Intelligent Systems and Application (LSIA), FST, SMBA University, Fez, Morocco"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3090159047" },
+      { "type": "magid", "value": "2981444684" },
+      { "type": "doi", "value": "10.1007/s11042-020-09815-4" },
+      { "type": "coreid", "value": "334874966" }
+    ],
+    "references": [
+      { "lens_id": "007-782-857-340-551" },
+      { "lens_id": "008-029-906-590-976" },
+      { "lens_id": "010-644-628-747-414" },
+      { "lens_id": "011-088-398-655-46X" },
+      { "lens_id": "011-402-549-875-703" },
+      { "lens_id": "012-448-745-874-660" },
+      { "lens_id": "019-866-555-101-241" },
+      { "lens_id": "021-074-021-345-926" },
+      { "lens_id": "023-120-044-975-24X" },
+      { "lens_id": "032-450-732-124-922" },
+      { "lens_id": "034-326-591-504-239" },
+      { "lens_id": "039-450-361-297-780" },
+      { "lens_id": "041-323-594-681-919" },
+      { "lens_id": "041-773-905-568-170" },
+      { "lens_id": "046-859-012-777-046" },
+      { "lens_id": "047-777-252-729-470" },
+      { "lens_id": "047-816-986-850-455" },
+      { "lens_id": "049-504-528-319-616" },
+      { "lens_id": "052-195-198-557-188" },
+      { "lens_id": "053-707-978-121-628" },
+      { "lens_id": "061-846-842-039-158" },
+      { "lens_id": "065-235-351-085-339" },
+      { "lens_id": "068-592-348-428-171" },
+      { "lens_id": "070-921-481-695-224" },
+      { "lens_id": "073-627-766-575-455" },
+      { "lens_id": "073-987-256-984-223" },
+      { "lens_id": "083-176-209-854-729" },
+      { "lens_id": "086-605-372-807-262" },
+      { "lens_id": "094-567-745-924-441" },
+      { "lens_id": "106-956-117-267-463" },
+      { "lens_id": "110-322-755-117-152" },
+      { "lens_id": "117-028-430-854-215" },
+      { "lens_id": "117-571-526-747-929" },
+      { "lens_id": "120-847-270-432-503" },
+      { "lens_id": "122-155-427-421-964" },
+      { "lens_id": "122-906-542-007-122" },
+      { "lens_id": "123-083-251-501-325" },
+      { "lens_id": "125-373-401-575-986" },
+      { "lens_id": "133-626-921-362-995" },
+      { "lens_id": "147-160-314-391-803" },
+      { "lens_id": "147-898-715-812-454" },
+      { "lens_id": "163-107-373-805-444" },
+      { "lens_id": "170-365-667-803-888" },
+      { "lens_id": "171-800-218-869-697" },
+      { "lens_id": "174-788-639-450-181" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Multimedia Tools and Applications"
+    },
+    "source_urls": [
+      { "type": "pdf", "url": "http://arxiv.org/pdf/1910.11678.pdf" },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/mta/mta80.html#HanoutiFZ21"
+      },
+      { "type": "html", "url": "https://arxiv.org/abs/1910.11678" },
+      {
+        "type": "html",
+        "url": "http://ui.adsabs.harvard.edu/abs/2019arXiv191011678E/abstract"
+      },
+      { "type": "html", "url": "https://doi.org/10.1007/s11042-020-09815-4" },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1007/s11042-020-09815-4"
+      },
+      { "type": "core_fulltext", "url": "http://arxiv.org/abs/1910.11678" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.8570.a"
+            },
+            "name": "Gadjah Mada University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.8570.a"
+            },
+            "name": "Gadjah Mada University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.8570.a"
+            },
+            "name": "Gadjah Mada University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.8570.a"
+            },
+            "name": "Gadjah Mada University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3005279420" },
+      { "type": "doi", "value": "10.1007/s40313-020-00571-2" }
+    ],
+    "references": [
+      { "lens_id": "011-529-034-928-130" },
+      { "lens_id": "016-334-759-206-161" },
+      { "lens_id": "020-063-653-193-932" },
+      { "lens_id": "043-051-326-027-693" },
+      { "lens_id": "047-039-075-916-093" },
+      { "lens_id": "047-496-955-710-388" },
+      { "lens_id": "049-097-789-056-302" },
+      { "lens_id": "055-858-679-072-003" },
+      { "lens_id": "059-499-410-525-851" },
+      { "lens_id": "060-768-455-982-368" },
+      { "lens_id": "064-983-989-994-678" },
+      { "lens_id": "069-174-886-172-630" },
+      { "lens_id": "084-818-791-644-070" },
+      { "lens_id": "093-250-221-601-711" },
+      { "lens_id": "096-048-383-152-023" },
+      { "lens_id": "102-010-386-119-845" },
+      { "lens_id": "116-357-396-234-936" },
+      { "lens_id": "125-285-578-163-901" },
+      { "lens_id": "150-420-673-519-887" },
+      { "lens_id": "153-251-681-504-33X" },
+      { "lens_id": "172-295-072-428-427" },
+      { "lens_id": "182-898-936-668-969" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Control, Automation and Electrical Systems"
+    },
+    "source_urls": [
+      {
+        "type": "pdf",
+        "url": "https://link.springer.com/content/pdf/10.1007/s40313-020-00571-2.pdf"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1007/s40313-020-00571-2"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3844/jcssp.2020.768.783" },
+      { "type": "magid", "value": "3037074152" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Science Publications",
+      "title_full": "Journal of Computer Science"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.thescipub.com/abstract/10.3844/jcssp.2020.768.783"
+      },
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/the-reliability-of-routing-protocols-as-an-important-factor-for-r"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.453400.6"
+            },
+            "name": "Huawei"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.453400.6"
+            },
+            "name": "Huawei"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1109/twc.2020.2997808" },
+      { "type": "magid", "value": "3033073703" }
+    ],
+    "references": [
+      { "lens_id": "002-037-291-500-461" },
+      { "lens_id": "002-448-752-052-080" },
+      { "lens_id": "002-791-083-134-166" },
+      { "lens_id": "004-026-330-230-687" },
+      { "lens_id": "004-461-913-024-291" },
+      { "lens_id": "011-072-701-373-742" },
+      { "lens_id": "011-404-045-376-520" },
+      { "lens_id": "017-386-895-342-708" },
+      { "lens_id": "017-547-478-049-599" },
+      { "lens_id": "018-068-849-167-470" },
+      { "lens_id": "019-705-587-321-225" },
+      { "lens_id": "021-137-780-512-989" },
+      { "lens_id": "021-239-956-533-685" },
+      { "lens_id": "023-775-988-210-794" },
+      { "lens_id": "025-591-467-965-290" },
+      { "lens_id": "026-379-880-413-105" },
+      { "lens_id": "027-734-123-496-783" },
+      { "lens_id": "029-873-801-942-707" },
+      { "lens_id": "039-389-206-086-844" },
+      { "lens_id": "044-668-978-781-049" },
+      { "lens_id": "045-004-617-647-391" },
+      { "lens_id": "045-054-222-585-486" },
+      { "lens_id": "046-688-511-987-765" },
+      { "lens_id": "047-467-758-176-742" },
+      { "lens_id": "049-510-110-196-349" },
+      { "lens_id": "050-405-832-119-880" },
+      { "lens_id": "054-944-080-040-78X" },
+      { "lens_id": "060-351-660-396-17X" },
+      { "lens_id": "062-463-312-405-905" },
+      { "lens_id": "070-696-803-351-494" },
+      { "lens_id": "070-719-412-556-483" },
+      { "lens_id": "076-911-744-027-287" },
+      { "lens_id": "088-218-313-008-391" },
+      { "lens_id": "088-660-629-283-711" },
+      { "lens_id": "088-725-539-647-897" },
+      { "lens_id": "090-639-435-569-071" },
+      { "lens_id": "092-388-792-485-932" },
+      { "lens_id": "097-243-333-498-19X" },
+      { "lens_id": "102-803-841-103-942" },
+      { "lens_id": "105-013-784-391-96X" },
+      { "lens_id": "106-729-588-909-450" },
+      { "lens_id": "112-073-388-607-632" },
+      { "lens_id": "113-537-299-356-471" },
+      { "lens_id": "114-406-787-608-072" },
+      { "lens_id": "119-589-280-207-313" },
+      { "lens_id": "121-764-026-596-672" },
+      { "lens_id": "122-836-440-548-349" },
+      { "lens_id": "133-916-487-800-053" }
+    ],
+    "source": {
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "title_full": "IEEE Transactions on Wireless Communications"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/twc/twc19.html#YangAHWCLHMZWLJ20"
+      },
+      { "type": "html", "url": "https://ieeexplore.ieee.org/document/9109751" },
+      { "type": "html", "url": "https://doi.org/10.1109/TWC.2020.2997808" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "JP" }],
+              "id": "grid.20515.33"
+            },
+            "name": "University of Tsukuba"
+          },
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "JP" }],
+              "id": "grid.20515.33"
+            },
+            "name": "University of Tsukuba"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3039572688" },
+      { "type": "doi", "value": "10.1016/j.micpro.2020.103199" }
+    ],
+    "references": [
+      { "lens_id": "000-914-193-699-648" },
+      { "lens_id": "001-871-559-666-429" },
+      { "lens_id": "009-202-749-720-900" },
+      { "lens_id": "013-098-713-211-511" },
+      { "lens_id": "017-641-642-224-549" },
+      { "lens_id": "032-839-081-363-051" },
+      { "lens_id": "037-875-765-479-936" },
+      { "lens_id": "037-971-678-575-09X" },
+      { "lens_id": "048-629-464-592-228" },
+      { "lens_id": "053-902-566-276-838" },
+      { "lens_id": "057-736-931-227-773" },
+      { "lens_id": "061-003-625-803-986" },
+      { "lens_id": "067-874-954-824-966" },
+      { "lens_id": "070-201-882-962-834" },
+      { "lens_id": "072-008-997-576-472" },
+      { "lens_id": "081-697-265-018-435" },
+      { "lens_id": "091-438-817-502-716" },
+      { "lens_id": "153-585-149-535-017" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "Microprocessors and Microsystems"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0141933120303665"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/mam/mam77.html#FirmansyahY20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443099.3"
+            },
+            "name": "Indonesia University of Education"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Electrical Engineering Department, School of Electrical Engineering and Informatics, Insti"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3086305142" },
+      { "type": "doi", "value": "10.3991/ijim.v14i15.14081" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#FuadaAS20"
+      },
+      {
+        "type": "pdf",
+        "url": "https://online-journals.org/index.php/i-jim/article/viewFile/14081/7757"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/14081"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/14081/7757"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/14081"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1186/s40537-020-00341-6" },
+      { "type": "magid", "value": "3087195275" }
+    ],
+    "references": [
+      { "lens_id": "016-522-107-313-517" },
+      { "lens_id": "023-805-082-979-008" },
+      { "lens_id": "027-238-439-422-593" },
+      { "lens_id": "044-498-949-210-002" },
+      { "lens_id": "053-094-537-530-97X" },
+      { "lens_id": "091-294-192-869-162" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://europepmc.org/article/PPR/PPR196777" },
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00341-6"
+      },
+      { "type": "html", "url": "https://doi.org/10.1186/s40537-020-00341-6" },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1186/s40537-020-00341-6"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#BudihartoAG20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "CN" }],
+              "id": "grid.181531.f"
+            },
+            "name": "Beijing Jiaotong University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3015929386" },
+      { "type": "doi", "value": "10.23919/jcc.2020.03.008" }
+    ],
+    "references": [
+      { "lens_id": "008-348-340-283-19X" },
+      { "lens_id": "010-791-059-161-156" },
+      { "lens_id": "019-904-987-658-435" },
+      { "lens_id": "027-184-662-558-003" },
+      { "lens_id": "035-160-024-066-665" },
+      { "lens_id": "036-342-389-811-190" },
+      { "lens_id": "038-630-896-931-241" },
+      { "lens_id": "041-664-190-868-272" },
+      { "lens_id": "044-257-994-017-968" },
+      { "lens_id": "048-742-858-405-792" },
+      { "lens_id": "078-645-613-349-458" },
+      { "lens_id": "095-051-590-737-244" },
+      { "lens_id": "102-544-929-555-587" }
+    ],
+    "source": {
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "title_full": "China Communications"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://ieeexplore.ieee.org/document/9058608" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [{ "name": "Universitas Muhammadiyah Surabaya" }]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3090771203" },
+      { "type": "doi", "value": "10.7903/ijecs.1910" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Academy of Taiwan Information Systems Research",
+      "title_full": "International Journal of Electronic Commerce Studies"
+    },
+    "source_urls": [
+      {
+        "type": "pdf",
+        "url": "http://www.academic-pub.org/ojs/index.php/ijecs/article/download/1910/386"
+      },
+      {
+        "type": "html",
+        "url": "http://www.academic-pub.org/ojs/index.php/ijecs/article/view/1910"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1186/s40537-020-00294-w" },
+      { "type": "magid", "value": "3013877256" }
+    ],
+    "references": [
+      { "lens_id": "011-063-538-646-020" },
+      { "lens_id": "015-095-451-964-327" },
+      { "lens_id": "017-043-665-206-415" },
+      { "lens_id": "026-449-509-255-772" },
+      { "lens_id": "040-167-021-284-758" },
+      { "lens_id": "053-595-855-957-018" },
+      { "lens_id": "054-129-155-566-903" },
+      { "lens_id": "059-497-126-204-357" },
+      { "lens_id": "085-379-662-892-013" },
+      { "lens_id": "093-784-340-361-93X" },
+      { "lens_id": "119-301-999-763-526" },
+      { "lens_id": "140-439-987-996-931" },
+      { "lens_id": "141-053-731-756-090" },
+      { "lens_id": "151-185-182-112-504" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#ManurungNB20"
+      },
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00294-w"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "JP" }],
+              "id": "grid.257022.0"
+            },
+            "name": "Hiroshima University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3037234301" },
+      { "type": "doi", "value": "10.4018/ijdet.2020070103" }
+    ],
+    "references": [
+      { "lens_id": "002-215-862-453-136" },
+      { "lens_id": "002-567-365-206-870" },
+      { "lens_id": "010-284-017-812-946" },
+      { "lens_id": "014-712-148-339-515" },
+      { "lens_id": "015-364-070-873-424" },
+      { "lens_id": "015-957-825-757-119" },
+      { "lens_id": "019-565-065-585-643" },
+      { "lens_id": "021-616-544-473-250" },
+      { "lens_id": "024-080-458-560-565" },
+      { "lens_id": "024-427-517-485-455" },
+      { "lens_id": "026-753-331-567-483" },
+      { "lens_id": "027-897-136-968-58X" },
+      { "lens_id": "031-345-090-891-335" },
+      { "lens_id": "036-381-627-386-583" },
+      { "lens_id": "036-408-540-095-940" },
+      { "lens_id": "036-988-504-606-17X" },
+      { "lens_id": "039-865-152-430-340" },
+      { "lens_id": "040-908-379-299-458" },
+      { "lens_id": "044-090-508-344-495" },
+      { "lens_id": "048-599-122-634-972" },
+      { "lens_id": "050-846-565-620-294" },
+      { "lens_id": "053-775-224-590-027" },
+      { "lens_id": "055-536-447-456-612" },
+      { "lens_id": "063-070-188-321-606" },
+      { "lens_id": "064-436-283-858-09X" },
+      { "lens_id": "075-232-064-813-195" },
+      { "lens_id": "080-254-823-683-984" },
+      { "lens_id": "085-237-116-558-276" },
+      { "lens_id": "085-622-383-280-548" },
+      { "lens_id": "095-811-135-449-573" },
+      { "lens_id": "098-721-668-866-257" },
+      { "lens_id": "098-989-290-957-946" },
+      { "lens_id": "103-501-231-642-706" },
+      { "lens_id": "118-501-714-838-919" },
+      { "lens_id": "121-516-068-664-570" },
+      { "lens_id": "130-089-703-984-139" },
+      { "lens_id": "132-427-345-340-254" },
+      { "lens_id": "139-764-960-044-184" },
+      { "lens_id": "146-481-080-094-320" },
+      { "lens_id": "151-934-772-239-498" },
+      { "lens_id": "152-748-221-110-521" },
+      { "lens_id": "153-195-805-226-551" },
+      { "lens_id": "160-281-831-920-998" },
+      { "lens_id": "163-308-420-057-866" },
+      { "lens_id": "166-179-626-553-348" },
+      { "lens_id": "177-739-162-836-21X" },
+      { "lens_id": "181-342-475-420-935" },
+      { "lens_id": "183-014-791-536-649" },
+      { "lens_id": "189-685-760-220-532" },
+      { "lens_id": "192-486-144-763-02X" }
+    ],
+    "source": {
+      "publisher": "IGI Global",
+      "title_full": "International Journal of Distance Education Technologies"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijdet/ijdet18.html#FatawiDSUH20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.igi-global.com/article/effect-of-online-based-concept-map-on-student-engagement-and-learning-outcome/257204"
+      },
+      { "type": "html", "url": "https://eric.ed.gov/?id=EJ1258189" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443082.9"
+            },
+            "name": "Maranatha Christian University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443082.9"
+            },
+            "name": "Maranatha Christian University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443082.9"
+            },
+            "name": "Maranatha Christian University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443082.9"
+            },
+            "name": "Maranatha Christian University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3112040210" },
+      { "type": "doi", "value": "10.31341/jios.44.2.1" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Faculty of Organisation and Informatics",
+      "title_full": "Journal of information and organizational sciences"
+    },
+    "source_urls": [
+      {
+        "type": "unknown",
+        "url": "https://jios.foi.hr/index.php/jios/article/view/1481/882"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3046729533" },
+      { "type": "doi", "value": "10.3991/ijim.v14i12.15597" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/15597/7559"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/15597/7559"
+      },
+      {
+        "type": "pdf",
+        "url": "https://online-journals.org/index.php/i-jim/article/viewFile/15597/7559"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#PradaniMM20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/15597"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3083708062" },
+      { "type": "doi", "value": "10.1186/s40537-020-00348-z" }
+    ],
+    "references": [
+      { "lens_id": "000-148-293-863-580" },
+      { "lens_id": "000-839-196-239-666" },
+      { "lens_id": "005-605-469-537-096" },
+      { "lens_id": "006-521-877-161-727" },
+      { "lens_id": "009-359-112-735-094" },
+      { "lens_id": "012-681-440-346-913" },
+      { "lens_id": "016-138-049-448-854" },
+      { "lens_id": "020-356-712-293-300" },
+      { "lens_id": "024-453-119-560-674" },
+      { "lens_id": "024-943-614-792-327" },
+      { "lens_id": "025-042-714-434-20X" },
+      { "lens_id": "035-048-543-162-122" },
+      { "lens_id": "035-202-198-601-667" },
+      { "lens_id": "037-623-260-847-587" },
+      { "lens_id": "038-968-990-574-277" },
+      { "lens_id": "039-269-957-925-112" },
+      { "lens_id": "044-877-300-792-239" },
+      { "lens_id": "046-296-006-938-206" },
+      { "lens_id": "048-094-199-538-774" },
+      { "lens_id": "051-390-288-401-715" },
+      { "lens_id": "055-860-943-101-129" },
+      { "lens_id": "062-538-590-179-278" },
+      { "lens_id": "065-736-633-663-585" },
+      { "lens_id": "067-527-523-880-548" },
+      { "lens_id": "075-954-358-708-096" },
+      { "lens_id": "080-960-572-046-216" },
+      { "lens_id": "085-312-702-649-514" },
+      { "lens_id": "085-951-933-490-855" },
+      { "lens_id": "089-653-000-533-796" },
+      { "lens_id": "095-684-007-199-822" },
+      { "lens_id": "095-731-531-557-699" },
+      { "lens_id": "098-031-647-328-996" },
+      { "lens_id": "101-133-849-863-579" },
+      { "lens_id": "104-889-475-186-487" },
+      { "lens_id": "107-203-203-339-312" },
+      { "lens_id": "109-635-690-274-246" },
+      { "lens_id": "112-951-845-683-689" },
+      { "lens_id": "118-108-833-483-953" },
+      { "lens_id": "124-369-228-285-396" },
+      { "lens_id": "136-380-465-949-689" },
+      { "lens_id": "146-797-657-473-001" },
+      { "lens_id": "175-224-242-528-887" },
+      { "lens_id": "181-055-218-732-610" },
+      { "lens_id": "186-342-014-782-652" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      {
+        "type": "pdf",
+        "url": "https://link.springer.com/content/pdf/10.1186/s40537-020-00348-z.pdf"
+      },
+      {
+        "type": "html",
+        "url": "https://paperity.org/p/256411091/impact-of-rail-transit-station-proximity-to-commercial-property-prices-utilizing-big-data"
+      },
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/impact-of-rail-transit-station-proximity-to-commercial-property-p"
+      },
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00348-z"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#BerawiMSS20"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1186/s40537-020-00348-z"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "KH" }],
+              "id": "grid.443152.5"
+            },
+            "name": "International University, Cambodia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.6268.a"
+            },
+            "name": "University of Bradford"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.442952.c"
+            },
+            "name": "Lampung University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1016/j.comnet.2020.107302" },
+      { "type": "magid", "value": "3027678484" }
+    ],
+    "references": [
+      { "lens_id": "002-779-641-707-386" },
+      { "lens_id": "010-510-900-914-389" },
+      { "lens_id": "013-157-679-448-028" },
+      { "lens_id": "013-404-906-883-19X" },
+      { "lens_id": "018-086-623-674-313" },
+      { "lens_id": "020-153-933-043-882" },
+      { "lens_id": "020-804-363-707-101" },
+      { "lens_id": "021-049-323-443-818" },
+      { "lens_id": "022-559-977-122-85X" },
+      { "lens_id": "028-653-427-967-523" },
+      { "lens_id": "033-281-778-908-230" },
+      { "lens_id": "037-558-762-743-288" },
+      { "lens_id": "038-254-683-491-67X" },
+      { "lens_id": "043-917-773-907-486" },
+      { "lens_id": "046-740-219-719-11X" },
+      { "lens_id": "049-243-835-039-822" },
+      { "lens_id": "050-912-151-040-727" },
+      { "lens_id": "052-346-968-245-144" },
+      { "lens_id": "056-629-984-403-670" },
+      { "lens_id": "057-555-195-648-170" },
+      { "lens_id": "063-196-165-709-492" },
+      { "lens_id": "063-763-660-389-578" },
+      { "lens_id": "072-179-565-333-879" },
+      { "lens_id": "072-785-595-853-461" },
+      { "lens_id": "074-565-398-675-553" },
+      { "lens_id": "074-961-373-125-824" },
+      { "lens_id": "078-221-481-260-582" },
+      { "lens_id": "078-667-246-687-056" },
+      { "lens_id": "082-400-793-293-912" },
+      { "lens_id": "088-579-125-249-44X" },
+      { "lens_id": "090-547-318-274-727" },
+      { "lens_id": "096-508-441-244-570" },
+      { "lens_id": "106-574-852-025-037" },
+      { "lens_id": "106-593-625-481-28X" },
+      { "lens_id": "114-165-725-530-543" },
+      { "lens_id": "116-700-629-558-356" },
+      { "lens_id": "120-675-888-888-088" },
+      { "lens_id": "136-307-654-648-26X" },
+      { "lens_id": "141-707-082-557-701" },
+      { "lens_id": "166-930-367-657-115" },
+      { "lens_id": "183-289-233-320-109" }
+    ],
+    "source": { "publisher": "Elsevier BV", "title_full": "Computer Networks" },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1389128620301742"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/cn/cn177.html#SigweleHS20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          },
+          {
+            "grid": {
+              "addresses": [{ "country_code": "MY" }],
+              "id": "grid.410877.d"
+            },
+            "name": "Universiti Teknologi Malaysia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "MY" }],
+              "id": "grid.410877.d"
+            },
+            "name": "Universiti Teknologi Malaysia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "2990664669" },
+      { "type": "coreid", "value": "338813644" },
+      { "type": "doi", "value": "10.1016/j.eswa.2019.113105" }
+    ],
+    "references": [
+      { "lens_id": "000-713-226-316-631" },
+      { "lens_id": "001-185-585-352-810" },
+      { "lens_id": "002-978-648-321-701" },
+      { "lens_id": "003-309-775-687-325" },
+      { "lens_id": "004-370-756-666-413" },
+      { "lens_id": "004-623-543-719-545" },
+      { "lens_id": "005-249-311-505-141" },
+      { "lens_id": "007-497-457-218-319" },
+      { "lens_id": "008-005-177-375-144" },
+      { "lens_id": "008-209-348-238-182" },
+      { "lens_id": "010-806-032-348-200" },
+      { "lens_id": "011-001-927-282-853" },
+      { "lens_id": "011-785-126-966-436" },
+      { "lens_id": "011-820-941-711-959" },
+      { "lens_id": "014-152-118-139-202" },
+      { "lens_id": "015-377-401-535-888" },
+      { "lens_id": "015-617-637-457-636" },
+      { "lens_id": "017-388-469-360-603" },
+      { "lens_id": "020-067-852-079-612" },
+      { "lens_id": "020-589-477-342-658" },
+      { "lens_id": "021-515-397-861-022" },
+      { "lens_id": "023-928-267-310-722" },
+      { "lens_id": "024-292-907-262-753" },
+      { "lens_id": "024-785-142-003-076" },
+      { "lens_id": "026-591-830-039-301" },
+      { "lens_id": "027-715-914-565-606" },
+      { "lens_id": "029-552-744-471-875" },
+      { "lens_id": "034-467-736-586-28X" },
+      { "lens_id": "044-165-220-973-376" },
+      { "lens_id": "048-430-325-148-436" },
+      { "lens_id": "049-377-741-519-247" },
+      { "lens_id": "049-705-612-732-789" },
+      { "lens_id": "050-856-290-546-476" },
+      { "lens_id": "053-304-492-467-745" },
+      { "lens_id": "056-412-915-983-694" },
+      { "lens_id": "057-433-098-795-27X" },
+      { "lens_id": "058-026-587-869-055" },
+      { "lens_id": "062-047-636-913-794" },
+      { "lens_id": "064-232-326-022-133" },
+      { "lens_id": "065-127-043-260-504" },
+      { "lens_id": "066-888-537-519-160" },
+      { "lens_id": "073-164-107-990-374" },
+      { "lens_id": "074-356-223-646-370" },
+      { "lens_id": "075-872-730-699-570" },
+      { "lens_id": "077-820-203-952-798" },
+      { "lens_id": "077-867-993-013-848" },
+      { "lens_id": "078-179-274-017-292" },
+      { "lens_id": "079-904-323-203-629" },
+      { "lens_id": "083-667-137-976-714" },
+      { "lens_id": "095-837-556-407-684" },
+      { "lens_id": "096-200-846-209-844" },
+      { "lens_id": "099-685-398-852-090" },
+      { "lens_id": "102-645-921-811-85X" },
+      { "lens_id": "102-681-195-594-974" },
+      { "lens_id": "103-484-086-089-825" },
+      { "lens_id": "106-589-341-101-706" },
+      { "lens_id": "109-647-452-345-043" },
+      { "lens_id": "118-272-031-268-340" },
+      { "lens_id": "120-540-237-031-074" },
+      { "lens_id": "122-202-194-297-243" },
+      { "lens_id": "123-618-973-346-679" },
+      { "lens_id": "124-739-919-188-937" },
+      { "lens_id": "126-726-036-202-408" },
+      { "lens_id": "129-559-947-699-172" },
+      { "lens_id": "133-660-832-812-690" },
+      { "lens_id": "133-756-207-469-387" },
+      { "lens_id": "136-021-801-235-243" },
+      { "lens_id": "138-662-094-577-30X" },
+      { "lens_id": "139-779-295-758-137" },
+      { "lens_id": "143-292-517-685-974" },
+      { "lens_id": "146-963-479-521-760" },
+      { "lens_id": "149-657-286-017-553" },
+      { "lens_id": "151-268-257-265-040" },
+      { "lens_id": "159-672-676-153-751" },
+      { "lens_id": "160-183-584-159-767" },
+      { "lens_id": "193-578-345-535-052" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "Expert Systems with Applications"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://doi.org/10.1016/j.eswa.2019.113105" },
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S095741741930822X"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/eswa/eswa145.html#AhsanMLKP20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3991/ijim.v14i12.15601" },
+      { "type": "magid", "value": "3046524402" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/15601"
+      },
+      {
+        "type": "pdf",
+        "url": "https://online-journals.org/index.php/i-jim/article/viewFile/15601/7563"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/15601"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#WahyonoSAAS20"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/15601/7563"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [{ "name": "UIN Syarif Hidayatullah" }]
+      },
+      {
+        "affiliations": [{ "name": "UIN Syarif Hidayatullah" }]
+      },
+      {
+        "affiliations": [{ "name": "UIN Syarif Hidayatullah" }]
+      },
+      {
+        "affiliations": [{ "name": "UIN Syarif Hidayatullah" }]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3023189212" },
+      { "type": "doi", "value": "10.3844/jcssp.2020.518.531" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Science Publications",
+      "title_full": "Journal of Computer Science"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://thescipub.com/abstract/10.3844/jcssp.2020.518.531"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3034300280" },
+      { "type": "doi", "value": "10.3844/jcssp.2020.686.701" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Science Publications",
+      "title_full": "Journal of Computer Science"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://thescipub.com/abstract/10.3844/jcssp.2020.686.701"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1504/ijids.2020.10026745" },
+      { "type": "magid", "value": "3004811331" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Inderscience Publishers",
+      "title_full": "International Journal of Information and Decision Sciences"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIDS.2020.104992"
+      },
+      { "type": "html", "url": "https://doi.org/10.1504/IJIDS.2020.104992" },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijids/ijids12.html#RintyarnaSF20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "TW" }],
+              "id": "grid.45907.3f"
+            },
+            "name": "National Taiwan University of Science and Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "TW" }],
+              "id": "grid.45907.3f"
+            },
+            "name": "National Taiwan University of Science and Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.440753.1"
+            },
+            "name": "Binus University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "TW" }],
+              "id": "grid.412146.4"
+            },
+            "name": "National Taipei University of Nursing and Health Science"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "TW" }],
+              "id": "grid.45907.3f"
+            },
+            "name": "National Taiwan University of Science and Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3037102291" },
+      { "type": "doi", "value": "10.1016/j.comcom.2020.06.025" }
+    ],
+    "references": [
+      { "lens_id": "000-278-797-943-889" },
+      { "lens_id": "008-102-746-848-285" },
+      { "lens_id": "011-647-491-571-250" },
+      { "lens_id": "012-347-072-085-030" },
+      { "lens_id": "012-979-042-159-532" },
+      { "lens_id": "017-561-907-469-374" },
+      { "lens_id": "021-424-740-070-962" },
+      { "lens_id": "027-808-242-140-535" },
+      { "lens_id": "029-773-646-690-600" },
+      { "lens_id": "034-616-278-400-738" },
+      { "lens_id": "034-926-800-043-918" },
+      { "lens_id": "036-366-577-052-837" },
+      { "lens_id": "038-590-466-934-684" },
+      { "lens_id": "044-948-823-078-451" },
+      { "lens_id": "052-089-292-676-125" },
+      { "lens_id": "056-620-855-434-285" },
+      { "lens_id": "073-489-277-415-466" },
+      { "lens_id": "074-497-835-286-483" },
+      { "lens_id": "080-994-430-174-795" },
+      { "lens_id": "085-404-851-056-788" },
+      { "lens_id": "087-053-349-344-611" },
+      { "lens_id": "094-487-051-054-584" },
+      { "lens_id": "100-823-777-216-525" },
+      { "lens_id": "125-067-741-991-278" },
+      { "lens_id": "125-572-557-787-928" },
+      { "lens_id": "131-309-999-372-614" },
+      { "lens_id": "133-476-580-806-103" },
+      { "lens_id": "137-566-212-326-805" },
+      { "lens_id": "149-530-783-144-950" },
+      { "lens_id": "157-858-533-033-827" },
+      { "lens_id": "167-525-067-938-633" },
+      { "lens_id": "172-871-435-233-542" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "Computer Communications"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/comcom/comcom160.html#HailemariamLJCH20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0140366420301778"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          },
+          {
+            "grid": {
+              "addresses": [{ "country_code": "JP" }],
+              "id": "grid.412681.8"
+            },
+            "name": "Sophia University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "JP" }],
+              "id": "grid.412681.8"
+            },
+            "name": "Sophia University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1016/j.eswa.2020.113754" },
+      { "type": "magid", "value": "3044854015" }
+    ],
+    "references": [
+      { "lens_id": "000-541-797-292-217" },
+      { "lens_id": "003-944-604-617-157" },
+      { "lens_id": "008-919-145-663-687" },
+      { "lens_id": "009-223-374-726-435" },
+      { "lens_id": "011-765-163-772-376" },
+      { "lens_id": "012-313-308-612-429" },
+      { "lens_id": "012-437-724-798-642" },
+      { "lens_id": "020-568-729-527-075" },
+      { "lens_id": "026-355-461-407-206" },
+      { "lens_id": "027-964-463-170-660" },
+      { "lens_id": "042-280-952-631-604" },
+      { "lens_id": "057-839-490-566-391" },
+      { "lens_id": "058-915-958-614-837" },
+      { "lens_id": "067-930-177-008-983" },
+      { "lens_id": "074-663-725-373-069" },
+      { "lens_id": "090-669-520-681-073" },
+      { "lens_id": "110-892-214-024-118" },
+      { "lens_id": "112-386-078-505-101" },
+      { "lens_id": "114-219-682-898-129" },
+      { "lens_id": "121-378-063-295-435" },
+      { "lens_id": "124-226-554-942-576" },
+      { "lens_id": "126-101-328-196-53X" },
+      { "lens_id": "130-159-324-464-951" },
+      { "lens_id": "131-055-939-668-555" },
+      { "lens_id": "150-356-599-331-793" },
+      { "lens_id": "153-921-115-502-321" },
+      { "lens_id": "154-176-115-011-695" },
+      { "lens_id": "158-946-946-836-835" },
+      { "lens_id": "163-078-684-853-726" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "Expert Systems with Applications"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/eswa/eswa162.html#AkbarI20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0957417420305789"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1515/pdtc-2019-0015" },
+      { "type": "magid", "value": "3035268918" }
+    ],
+    "references": [
+      { "lens_id": "017-384-692-349-599" },
+      { "lens_id": "018-659-672-812-247" },
+      { "lens_id": "042-629-795-958-919" },
+      { "lens_id": "049-965-363-710-554" },
+      { "lens_id": "069-090-281-357-909" },
+      { "lens_id": "071-351-959-345-245" },
+      { "lens_id": "116-844-357-633-406" },
+      { "lens_id": "153-998-814-090-675" }
+    ],
+    "source": {
+      "publisher": "Walter de Gruyter GmbH",
+      "title_full": "Preservation, Digital Technology & Culture"
+    },
+    "source_urls": [
+      {
+        "type": "unknown",
+        "url": "https://www.degruyter.com/view/journals/pdtc/49/1/article-p14.xml"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "NL" }],
+              "id": "grid.4830.f"
+            },
+            "name": "University of Groningen"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "2999289032" },
+      { "type": "doi", "value": "10.1007/s11192-019-03342-2" }
+    ],
+    "references": [
+      { "lens_id": "000-016-634-736-017" },
+      { "lens_id": "004-563-954-315-703" },
+      { "lens_id": "005-093-127-880-074" },
+      { "lens_id": "006-330-672-181-132" },
+      { "lens_id": "006-471-223-464-646" },
+      { "lens_id": "006-695-469-998-958" },
+      { "lens_id": "007-081-335-197-653" },
+      { "lens_id": "007-619-374-847-390" },
+      { "lens_id": "014-812-219-323-990" },
+      { "lens_id": "016-913-489-090-459" },
+      { "lens_id": "019-255-412-402-271" },
+      { "lens_id": "019-503-573-753-62X" },
+      { "lens_id": "019-896-355-225-407" },
+      { "lens_id": "028-524-899-166-934" },
+      { "lens_id": "029-088-720-186-707" },
+      { "lens_id": "031-916-070-683-973" },
+      { "lens_id": "037-805-538-057-473" },
+      { "lens_id": "041-237-877-697-493" },
+      { "lens_id": "041-752-589-805-265" },
+      { "lens_id": "045-945-695-595-384" },
+      { "lens_id": "047-648-816-511-450" },
+      { "lens_id": "052-162-663-679-164" },
+      { "lens_id": "056-606-048-057-742" },
+      { "lens_id": "064-039-690-721-366" },
+      { "lens_id": "064-737-530-992-616" },
+      { "lens_id": "066-330-552-367-895" },
+      { "lens_id": "070-604-919-374-777" },
+      { "lens_id": "070-698-918-821-424" },
+      { "lens_id": "071-904-443-911-979" },
+      { "lens_id": "074-225-102-766-675" },
+      { "lens_id": "080-335-471-214-416" },
+      { "lens_id": "080-702-717-884-674" },
+      { "lens_id": "082-821-825-765-677" },
+      { "lens_id": "083-679-803-561-608" },
+      { "lens_id": "085-263-738-266-218" },
+      { "lens_id": "085-423-816-275-911" },
+      { "lens_id": "086-718-224-707-076" },
+      { "lens_id": "090-919-754-137-299" },
+      { "lens_id": "096-245-068-358-091" },
+      { "lens_id": "098-735-085-587-405" },
+      { "lens_id": "101-674-117-228-379" },
+      { "lens_id": "101-752-490-869-458" },
+      { "lens_id": "107-362-112-311-662" },
+      { "lens_id": "110-271-923-964-151" },
+      { "lens_id": "111-958-190-933-370" },
+      { "lens_id": "112-096-793-797-566" },
+      { "lens_id": "115-333-243-629-942" },
+      { "lens_id": "115-476-459-367-070" },
+      { "lens_id": "120-072-322-429-12X" },
+      { "lens_id": "122-568-606-660-35X" },
+      { "lens_id": "135-801-632-218-493" },
+      { "lens_id": "138-227-699-243-445" },
+      { "lens_id": "145-864-049-369-340" },
+      { "lens_id": "149-113-642-334-331" },
+      { "lens_id": "166-047-836-847-69X" },
+      { "lens_id": "173-874-075-762-191" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Scientometrics"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://ideas.repec.org/a/spr/scient/v122y2020i3d10.1007_s11192-019-03342-2.html"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/scientometrics/scientometrics122.html#PurwitasariFSSP20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2Fe74d4178-f09d-4c00-8017-e10746b91e65"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1007/s11192-019-03342-2"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443099.3"
+            },
+            "name": "Indonesia University of Education"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "KR" }],
+              "id": "grid.37172.30"
+            },
+            "name": "KAIST"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3087979958" },
+      { "type": "doi", "value": "10.3991/ijim.v14i16.14077" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/14077/7885"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#FuadaAP20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/14077"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/14077"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444191.d"
+            },
+            "name": "Jenderal Soedirman University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444191.d"
+            },
+            "name": "Jenderal Soedirman University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.31341/jios.44.1.6" },
+      { "type": "coreid", "value": "337613089" },
+      { "type": "magid", "value": "3039633426" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Faculty of Organisation and Informatics",
+      "title_full": "Journal of information and organizational sciences"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://hrcak.srce.hr/239792" },
+      { "type": "pdf", "url": "https://hrcak.srce.hr/file/348075" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "MY" }],
+              "id": "grid.410877.d"
+            },
+            "name": "Universiti Teknologi Malaysia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3991/ijim.v14i12.15573" },
+      { "type": "coreid", "value": "327179015" },
+      { "type": "magid", "value": "3046523682" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/15573"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/15573"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#SendariMDPSH20"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/15573/7561"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "PT Pangripta Geomatika Indonesia (UAV LIDAR Specialist), Jakarta, Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3098700124" },
+      { "type": "doi", "value": "10.1186/s40537-020-00374-x" }
+    ],
+    "references": [
+      { "lens_id": "003-359-108-975-994" },
+      { "lens_id": "006-709-376-491-052" },
+      { "lens_id": "015-918-517-999-683" },
+      { "lens_id": "021-237-509-689-531" },
+      { "lens_id": "023-242-799-710-94X" },
+      { "lens_id": "023-805-082-979-008" },
+      { "lens_id": "026-068-422-009-596" },
+      { "lens_id": "041-314-165-476-904" },
+      { "lens_id": "046-219-823-363-095" },
+      { "lens_id": "046-358-521-050-341" },
+      { "lens_id": "047-563-169-465-108" },
+      { "lens_id": "050-338-850-390-386" },
+      { "lens_id": "050-744-862-502-086" },
+      { "lens_id": "052-100-141-973-397" },
+      { "lens_id": "054-869-019-916-028" },
+      { "lens_id": "060-781-297-039-636" },
+      { "lens_id": "061-150-022-812-525" },
+      { "lens_id": "066-822-694-868-565" },
+      { "lens_id": "066-926-510-635-115" },
+      { "lens_id": "068-173-177-843-998" },
+      { "lens_id": "068-329-756-748-571" },
+      { "lens_id": "070-812-741-418-459" },
+      { "lens_id": "071-505-853-961-970" },
+      { "lens_id": "079-310-940-223-758" },
+      { "lens_id": "081-186-188-518-107" },
+      { "lens_id": "083-161-285-502-23X" },
+      { "lens_id": "083-539-809-043-145" },
+      { "lens_id": "083-604-613-496-685" },
+      { "lens_id": "087-942-875-221-953" },
+      { "lens_id": "097-574-491-064-887" },
+      { "lens_id": "117-241-460-758-622" },
+      { "lens_id": "159-390-204-075-403" },
+      { "lens_id": "176-485-397-826-258" },
+      { "lens_id": "178-606-451-314-116" },
+      { "lens_id": "186-179-514-861-050" },
+      { "lens_id": "189-648-231-191-219" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/automatic-lidar-building-segmentation-based-on-dgcnn-and-euclidea"
+      },
+      { "type": "html", "url": "https://doi.org/10.1186/s40537-020-00374-x" },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1186/s40537-020-00374-x"
+      },
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00374-x"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#GamalWWAHWJA20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.mysciencework.com/publication/show/automatic-lidar-building-segmentation-based-dgcnn-euclidean-clustering-d37c3d16"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3081776909" },
+      { "type": "doi", "value": "10.1186/s40537-020-00342-5" }
+    ],
+    "references": [
+      { "lens_id": "001-236-231-184-140" },
+      { "lens_id": "006-087-125-657-894" },
+      { "lens_id": "008-191-250-354-027" },
+      { "lens_id": "008-736-530-029-170" },
+      { "lens_id": "016-647-542-440-122" },
+      { "lens_id": "020-233-013-143-936" },
+      { "lens_id": "025-384-948-751-89X" },
+      { "lens_id": "026-268-792-258-975" },
+      { "lens_id": "028-002-366-733-627" },
+      { "lens_id": "031-196-204-247-585" },
+      { "lens_id": "034-385-813-935-30X" },
+      { "lens_id": "037-226-818-357-845" },
+      { "lens_id": "043-389-989-526-74X" },
+      { "lens_id": "047-049-258-765-792" },
+      { "lens_id": "066-935-277-454-565" },
+      { "lens_id": "067-090-109-520-871" },
+      { "lens_id": "067-946-453-059-661" },
+      { "lens_id": "072-776-184-792-188" },
+      { "lens_id": "074-110-575-890-019" },
+      { "lens_id": "079-310-940-223-758" },
+      { "lens_id": "079-805-333-708-563" },
+      { "lens_id": "081-238-057-193-906" },
+      { "lens_id": "085-287-497-018-702" },
+      { "lens_id": "100-112-717-774-647" },
+      { "lens_id": "102-013-567-675-967" },
+      { "lens_id": "107-048-721-290-849" },
+      { "lens_id": "117-078-000-933-875" },
+      { "lens_id": "120-130-041-806-016" },
+      { "lens_id": "139-552-118-652-140" },
+      { "lens_id": "178-606-451-314-116" },
+      { "lens_id": "180-559-374-049-445" },
+      { "lens_id": "195-091-532-336-938" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#WibisonoWRFMJ20"
+      },
+      { "type": "html", "url": "https://doi.org/10.1186/s40537-020-00342-5" },
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/traditional-food-knowledge-of-indonesia-a-new-high-quality-food-d"
+      },
+      {
+        "type": "pdf",
+        "url": "https://link.springer.com/content/pdf/10.1186/s40537-020-00342-5.pdf"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1186/s40537-020-00342-5"
+      },
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00342-5"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.412001.6"
+            },
+            "name": "Hasanuddin University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3991/ijim.v14i13.13237" },
+      { "type": "magid", "value": "3048992342" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#IndrabayuNABBR20"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/13237/7671"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/13237"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/13237/7671"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          },
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1016/j.hitech.2020.100393" },
+      { "type": "magid", "value": "3107766939" }
+    ],
+    "references": [
+      { "lens_id": "000-599-941-805-067" },
+      { "lens_id": "001-045-825-650-178" },
+      { "lens_id": "003-184-815-722-038" },
+      { "lens_id": "004-160-520-877-294" },
+      { "lens_id": "008-940-638-777-347" },
+      { "lens_id": "009-250-882-157-551" },
+      { "lens_id": "013-851-975-864-499" },
+      { "lens_id": "014-530-857-980-463" },
+      { "lens_id": "016-338-389-670-933" },
+      { "lens_id": "020-697-049-491-823" },
+      { "lens_id": "021-841-332-626-279" },
+      { "lens_id": "022-429-651-416-924" },
+      { "lens_id": "022-870-636-253-239" },
+      { "lens_id": "024-265-923-719-422" },
+      { "lens_id": "024-765-221-486-282" },
+      { "lens_id": "024-977-810-297-089" },
+      { "lens_id": "026-436-547-000-161" },
+      { "lens_id": "028-101-365-660-474" },
+      { "lens_id": "030-808-514-471-169" },
+      { "lens_id": "031-351-410-667-932" },
+      { "lens_id": "033-311-881-542-550" },
+      { "lens_id": "035-221-685-192-964" },
+      { "lens_id": "035-759-716-782-495" },
+      { "lens_id": "036-076-919-012-929" },
+      { "lens_id": "037-550-015-414-716" },
+      { "lens_id": "039-296-018-023-819" },
+      { "lens_id": "040-443-881-673-356" },
+      { "lens_id": "042-497-543-623-862" },
+      { "lens_id": "046-756-131-772-879" },
+      { "lens_id": "046-775-988-687-95X" },
+      { "lens_id": "048-925-718-697-668" },
+      { "lens_id": "052-130-228-127-246" },
+      { "lens_id": "056-292-247-053-323" },
+      { "lens_id": "056-759-208-231-568" },
+      { "lens_id": "058-402-046-426-573" },
+      { "lens_id": "066-260-254-459-029" },
+      { "lens_id": "066-301-913-299-259" },
+      { "lens_id": "066-364-703-156-549" },
+      { "lens_id": "070-386-913-292-428" },
+      { "lens_id": "072-329-724-190-360" },
+      { "lens_id": "073-142-298-202-475" },
+      { "lens_id": "081-018-972-303-430" },
+      { "lens_id": "085-248-446-728-876" },
+      { "lens_id": "098-837-512-300-761" },
+      { "lens_id": "104-940-723-821-744" },
+      { "lens_id": "111-966-732-821-18X" },
+      { "lens_id": "118-988-341-743-251" },
+      { "lens_id": "120-957-057-309-300" },
+      { "lens_id": "128-000-099-131-846" },
+      { "lens_id": "131-979-212-265-608" },
+      { "lens_id": "134-296-252-111-351" },
+      { "lens_id": "139-868-236-907-774" },
+      { "lens_id": "150-293-309-121-443" },
+      { "lens_id": "150-640-047-713-978" },
+      { "lens_id": "151-518-397-098-984" },
+      { "lens_id": "172-394-509-976-64X" },
+      { "lens_id": "176-180-900-371-055" },
+      { "lens_id": "187-010-015-562-550" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "The Journal of High Technology Management Research"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/conceptual-model-smart-knowledge-mapping-with-process-and-activit"
+      },
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1047831020300249"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.411744.3"
+            },
+            "name": "University of Brawijaya"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.411744.3"
+            },
+            "name": "University of Brawijaya"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.411744.3"
+            },
+            "name": "University of Brawijaya"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3991/ijim.v14i14.14105" },
+      { "type": "magid", "value": "3081611259" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/14105/7725"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#HudaTU20"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/14105"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/14105/7725"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1504/eg.2020.110608" },
+      { "type": "magid", "value": "3096364779" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Inderscience Publishers",
+      "title_full": "Electronic Government, an International Journal"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.inderscienceonline.com/doi/abs/10.1504/EG.2020.110608"
+      },
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/development-of-hybrid-quality-function-deployment-analytical-netw"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.434933.a"
+            },
+            "name": "Bandung Institute of Technology"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443017.5"
+            },
+            "name": "Telkom University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.15866/irecap.v10i4.17793" },
+      { "type": "magid", "value": "3087127380" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Praise Worthy Prize",
+      "title_full": "International Journal on Communications Antenna and Propagation (IRECAP)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.praiseworthyprize.org/jsm/index.php?journal=irecap&page=article&op=view&path[]=23948"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443017.5"
+            },
+            "name": "Telkom University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443017.5"
+            },
+            "name": "Telkom University"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443017.5"
+            },
+            "name": "Telkom University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3844/jcssp.2020.559.567" },
+      { "type": "magid", "value": "3015001458" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "Science Publications",
+      "title_full": "Journal of Computer Science"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://thescipub.com/abstract/10.3844/jcssp.2020.559.567"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443075.1"
+            },
+            "name": "Parahyangan Catholic University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1016/j.jrtpm.2019.100161" },
+      { "type": "magid", "value": "2989741082" }
+    ],
+    "references": [
+      { "lens_id": "005-551-295-395-436" },
+      { "lens_id": "009-762-165-302-241" },
+      { "lens_id": "024-585-758-948-143" },
+      { "lens_id": "034-081-147-034-40X" },
+      { "lens_id": "036-686-427-297-006" },
+      { "lens_id": "037-752-670-154-864" },
+      { "lens_id": "059-223-477-721-112" },
+      { "lens_id": "072-369-268-188-924" },
+      { "lens_id": "074-918-864-487-033" },
+      { "lens_id": "077-381-575-545-307" },
+      { "lens_id": "083-934-418-989-822" },
+      { "lens_id": "084-108-439-205-03X" },
+      { "lens_id": "091-375-953-155-434" },
+      { "lens_id": "101-425-216-588-938" },
+      { "lens_id": "102-398-695-746-942" },
+      { "lens_id": "130-283-874-209-160" },
+      { "lens_id": "140-327-803-982-601" },
+      { "lens_id": "153-362-960-736-979" },
+      { "lens_id": "159-466-696-997-591" },
+      { "lens_id": "172-734-602-333-815" }
+    ],
+    "source": {
+      "publisher": "Elsevier BV",
+      "title_full": "Journal of Rail Transport Planning & Management"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210970619300290"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jrtpm/jrtpm13.html#Pratikto20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444633.2"
+            },
+            "name": "Islamic University of Indonesia"
+          },
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.473031.2"
+            },
+            "name": "Deutsche Telekom"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.473031.2"
+            },
+            "name": "Deutsche Telekom"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.473031.2"
+            },
+            "name": "Deutsche Telekom"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "GB" }],
+              "id": "grid.473031.2"
+            },
+            "name": "Deutsche Telekom"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1049/iet-com.2019.0550" },
+      { "type": "magid", "value": "2989460376" }
+    ],
+    "references": [
+      { "lens_id": "000-249-317-463-921" },
+      { "lens_id": "001-055-438-053-647" },
+      { "lens_id": "001-208-811-563-755" },
+      { "lens_id": "015-722-830-329-534" },
+      { "lens_id": "026-626-555-375-235" },
+      { "lens_id": "035-191-724-838-605" },
+      { "lens_id": "038-319-443-229-626" },
+      { "lens_id": "038-439-445-907-095" },
+      { "lens_id": "049-314-745-116-199" },
+      { "lens_id": "050-446-449-224-021" },
+      { "lens_id": "056-880-658-488-525" },
+      { "lens_id": "057-533-501-993-70X" },
+      { "lens_id": "061-756-851-864-046" },
+      { "lens_id": "071-537-971-955-594" },
+      { "lens_id": "072-031-034-197-096" },
+      { "lens_id": "072-751-656-415-305" },
+      { "lens_id": "075-401-017-989-977" },
+      { "lens_id": "076-213-896-149-402" },
+      { "lens_id": "080-182-316-062-18X" },
+      { "lens_id": "103-033-977-468-930" },
+      { "lens_id": "105-181-939-317-231" },
+      { "lens_id": "117-612-936-673-406" },
+      { "lens_id": "121-913-269-480-099" },
+      { "lens_id": "140-702-752-009-052" },
+      { "lens_id": "159-855-643-974-854" }
+    ],
+    "source": {
+      "publisher": "Institution of Engineering and Technology (IET)",
+      "title_full": "IET Communications"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/iet-com/iet-com14.html#IriantoNSF20"
+      },
+      {
+        "type": "html",
+        "url": "https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.0550"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444410.1"
+            },
+            "name": "Petra Christian University"
+          },
+          {
+            "grid": {
+              "addresses": [{ "country_code": "AU" }],
+              "id": "grid.266842.c"
+            },
+            "name": "University of Newcastle"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "AU" }],
+              "id": "grid.266842.c"
+            },
+            "name": "University of Newcastle"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "AU" }],
+              "id": "grid.266842.c"
+            },
+            "name": "University of Newcastle"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3040677064" },
+      { "type": "doi", "value": "10.1007/s10586-020-03093-3" }
+    ],
+    "references": [
+      { "lens_id": "000-168-679-859-275" },
+      { "lens_id": "000-267-336-127-21X" },
+      { "lens_id": "001-782-826-765-858" },
+      { "lens_id": "001-856-301-205-523" },
+      { "lens_id": "003-251-086-798-207" },
+      { "lens_id": "004-407-357-746-850" },
+      { "lens_id": "004-930-618-968-061" },
+      { "lens_id": "005-144-372-949-36X" },
+      { "lens_id": "006-355-294-212-819" },
+      { "lens_id": "006-865-484-555-054" },
+      { "lens_id": "007-177-862-362-75X" },
+      { "lens_id": "012-030-813-270-861" },
+      { "lens_id": "012-984-355-911-939" },
+      { "lens_id": "013-404-887-067-938" },
+      { "lens_id": "014-059-108-814-351" },
+      { "lens_id": "014-716-135-672-528" },
+      { "lens_id": "015-228-872-038-790" },
+      { "lens_id": "017-968-872-813-247" },
+      { "lens_id": "018-380-860-309-261" },
+      { "lens_id": "020-258-505-706-687" },
+      { "lens_id": "021-389-655-142-924" },
+      { "lens_id": "021-442-586-717-682" },
+      { "lens_id": "025-703-581-202-020" },
+      { "lens_id": "026-938-908-152-778" },
+      { "lens_id": "030-816-516-850-779" },
+      { "lens_id": "033-433-747-347-688" },
+      { "lens_id": "033-840-552-810-597" },
+      { "lens_id": "035-187-410-897-686" },
+      { "lens_id": "036-832-414-000-640" },
+      { "lens_id": "038-483-152-984-378" },
+      { "lens_id": "038-492-748-760-820" },
+      { "lens_id": "043-763-846-893-312" },
+      { "lens_id": "046-539-774-973-825" },
+      { "lens_id": "048-915-547-176-171" },
+      { "lens_id": "049-446-733-721-951" },
+      { "lens_id": "051-807-566-376-072" },
+      { "lens_id": "053-305-406-664-158" },
+      { "lens_id": "056-644-906-333-633" },
+      { "lens_id": "057-656-266-028-212" },
+      { "lens_id": "058-140-664-821-936" },
+      { "lens_id": "059-936-113-756-867" },
+      { "lens_id": "060-539-757-368-954" },
+      { "lens_id": "063-166-033-970-405" },
+      { "lens_id": "063-966-656-726-164" },
+      { "lens_id": "066-099-663-920-623" },
+      { "lens_id": "066-430-786-284-396" },
+      { "lens_id": "067-856-154-281-167" },
+      { "lens_id": "072-079-803-164-823" },
+      { "lens_id": "076-295-454-967-602" },
+      { "lens_id": "079-115-659-915-919" },
+      { "lens_id": "080-057-653-159-115" },
+      { "lens_id": "090-314-556-194-776" },
+      { "lens_id": "096-136-718-456-011" },
+      { "lens_id": "103-073-232-595-245" },
+      { "lens_id": "105-218-705-088-946" },
+      { "lens_id": "110-805-491-469-002" },
+      { "lens_id": "111-085-619-662-631" },
+      { "lens_id": "112-112-554-951-324" },
+      { "lens_id": "121-598-329-009-067" },
+      { "lens_id": "121-670-720-946-719" },
+      { "lens_id": "123-498-859-171-509" },
+      { "lens_id": "125-242-529-369-532" },
+      { "lens_id": "125-701-512-683-277" },
+      { "lens_id": "126-550-652-294-389" },
+      { "lens_id": "127-927-180-208-983" },
+      { "lens_id": "128-853-986-696-362" },
+      { "lens_id": "133-218-004-325-22X" },
+      { "lens_id": "138-349-197-767-201" },
+      { "lens_id": "138-946-249-070-760" },
+      { "lens_id": "142-474-806-225-780" },
+      { "lens_id": "144-230-954-815-59X" },
+      { "lens_id": "145-792-465-380-055" },
+      { "lens_id": "149-489-809-211-006" },
+      { "lens_id": "150-289-924-980-74X" },
+      { "lens_id": "151-125-118-164-313" },
+      { "lens_id": "153-001-562-127-103" },
+      { "lens_id": "156-976-139-874-100" },
+      { "lens_id": "158-605-865-993-323" },
+      { "lens_id": "161-467-550-439-307" },
+      { "lens_id": "196-441-056-369-328" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Cluster Computing"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://doi.org/10.1007/s10586-020-03093-3" },
+      {
+        "type": "unknown",
+        "url": "https://link.springer.com/content/pdf/10.1007/s10586-020-03093-3.pdf"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1007/s10586-020-03093-3"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/cluster/cluster23.html#BudhiCD20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "name": "Department of Electromedical Engineering, Health Polytechnic Ministry of Health Surabaya, Surabaya, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Physical Medicine and Rehabilitation, Dr. Soetomo Hospital, Surabaya, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444380.f"
+            },
+            "name": "Sepuluh Nopember Institute of Technology"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3033182043" },
+      { "type": "doi", "value": "10.1109/tnsre.2020.2999505" },
+      { "type": "pmid", "value": "32634104" }
+    ],
+    "references": [
+      { "lens_id": "006-596-649-205-026" },
+      { "lens_id": "007-761-012-425-235" },
+      { "lens_id": "007-856-494-222-546" },
+      { "lens_id": "008-014-960-272-395" },
+      { "lens_id": "010-313-017-634-756" },
+      { "lens_id": "012-787-023-602-600" },
+      { "lens_id": "015-386-104-344-57X" },
+      { "lens_id": "016-585-581-834-844" },
+      { "lens_id": "017-654-464-619-830" },
+      { "lens_id": "020-036-013-214-850" },
+      { "lens_id": "023-516-059-379-580" },
+      { "lens_id": "024-633-579-980-301" },
+      { "lens_id": "026-065-384-150-252" },
+      { "lens_id": "029-863-161-438-449" },
+      { "lens_id": "034-490-584-804-510" },
+      { "lens_id": "037-306-423-432-804" },
+      { "lens_id": "040-515-711-110-833" },
+      { "lens_id": "041-323-271-427-115" },
+      { "lens_id": "045-636-851-133-757" },
+      { "lens_id": "047-918-006-630-252" },
+      { "lens_id": "049-711-208-045-005" },
+      { "lens_id": "050-923-074-974-246" },
+      { "lens_id": "053-024-927-764-110" },
+      { "lens_id": "059-320-830-368-853" },
+      { "lens_id": "060-263-918-583-504" },
+      { "lens_id": "061-396-583-979-309" },
+      { "lens_id": "072-385-194-881-573" },
+      { "lens_id": "077-867-743-985-249" },
+      { "lens_id": "085-855-374-378-049" },
+      { "lens_id": "090-456-867-521-598" },
+      { "lens_id": "095-354-605-670-053" },
+      { "lens_id": "104-331-450-126-979" },
+      { "lens_id": "113-325-776-766-55X" },
+      { "lens_id": "115-323-395-701-676" },
+      { "lens_id": "141-195-650-350-72X" },
+      { "lens_id": "163-467-828-860-263" }
+    ],
+    "source": {
+      "publisher": "Institute of Electrical and Electronics Engineers Inc.",
+      "title_full": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society"
+    },
+    "source_urls": [
+      { "type": "html", "url": "https://www.ncbi.nlm.nih.gov/pubmed/32634104" },
+      { "type": "html", "url": "https://ieeexplore.ieee.org/document/9107136" }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Aviation Engineering, Indonesian Civil Aviation Institute, Tangerang, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Aviation Engineering, Indonesian Civil Aviation Institute, Tangerang, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Department of Aviation Engineering, Indonesian Civil Aviation Institute, Tangerang, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.444286.8"
+            },
+            "name": "Sultan Ageng Tirtayasa University"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3081957944" },
+      { "type": "doi", "value": "10.1007/s11277-020-07754-9" }
+    ],
+    "references": [
+      { "lens_id": "007-435-873-694-900" },
+      { "lens_id": "008-001-735-434-228" },
+      { "lens_id": "009-291-067-197-38X" },
+      { "lens_id": "010-878-181-452-792" },
+      { "lens_id": "010-986-197-398-776" },
+      { "lens_id": "014-731-188-937-644" },
+      { "lens_id": "018-457-803-266-069" },
+      { "lens_id": "019-766-989-215-133" },
+      { "lens_id": "027-208-590-383-040" },
+      { "lens_id": "029-508-901-246-826" },
+      { "lens_id": "031-702-833-467-459" },
+      { "lens_id": "035-103-191-834-157" },
+      { "lens_id": "037-262-634-076-182" },
+      { "lens_id": "037-330-362-130-836" },
+      { "lens_id": "040-907-939-925-564" },
+      { "lens_id": "047-957-331-260-373" },
+      { "lens_id": "060-085-666-223-406" },
+      { "lens_id": "067-328-286-449-647" },
+      { "lens_id": "067-785-329-166-705" },
+      { "lens_id": "073-493-889-400-523" },
+      { "lens_id": "075-311-920-588-062" },
+      { "lens_id": "075-826-131-109-092" },
+      { "lens_id": "093-312-526-506-329" },
+      { "lens_id": "094-303-215-964-519" },
+      { "lens_id": "124-311-719-068-677" },
+      { "lens_id": "128-375-849-087-655" },
+      { "lens_id": "133-481-739-728-263" },
+      { "lens_id": "135-618-047-187-31X" },
+      { "lens_id": "135-792-216-709-232" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Wireless Personal Communications"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/wpc/wpc116.html#WibisonoWWWF21"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1007/s11277-020-07754-9"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443479.9"
+            },
+            "name": "State University of Jakarta"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443479.9"
+            },
+            "name": "State University of Jakarta"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443479.9"
+            },
+            "name": "State University of Jakarta"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.3991/ijim.v14i14.14411" },
+      { "type": "magid", "value": "3081851104" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/14411"
+      },
+      {
+        "type": "pdf",
+        "url": "https://online-journals.org/index.php/i-jim/article/viewFile/14411/7745"
+      },
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/14411"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/14411/7745"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#ChaerumanWS20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.249566.a"
+            },
+            "name": "Indonesian Institute of Sciences"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Research Institute for Tea and Cinchona, Indonesian Agency for Agricultural Research and Development, Gambung, Indonesia"
+          }
+        ]
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Research Institute for Tea and Cinchona, Indonesian Agency for Agricultural Research and Development, Gambung, Indonesia"
+          }
+        ]
+      }
+    ],
+    "external_ids": [
+      { "type": "doi", "value": "10.1186/s40537-020-00332-7" },
+      { "type": "magid", "value": "3047564907" }
+    ],
+    "references": [
+      { "lens_id": "000-150-299-991-21X" },
+      { "lens_id": "004-404-790-975-984" },
+      { "lens_id": "010-567-968-309-238" },
+      { "lens_id": "010-844-519-197-595" },
+      { "lens_id": "012-642-196-605-159" },
+      { "lens_id": "013-156-255-523-712" },
+      { "lens_id": "015-916-825-944-247" },
+      { "lens_id": "019-215-610-025-597" },
+      { "lens_id": "020-233-013-143-936" },
+      { "lens_id": "022-969-036-573-87X" },
+      { "lens_id": "026-269-447-223-354" },
+      { "lens_id": "029-596-977-717-535" },
+      { "lens_id": "031-104-216-070-536" },
+      { "lens_id": "038-995-378-478-653" },
+      { "lens_id": "040-862-813-405-17X" },
+      { "lens_id": "042-240-098-526-453" },
+      { "lens_id": "042-571-405-193-027" },
+      { "lens_id": "044-445-135-944-980" },
+      { "lens_id": "046-295-524-184-040" },
+      { "lens_id": "055-514-990-553-433" },
+      { "lens_id": "056-106-014-739-197" },
+      { "lens_id": "056-360-043-676-520" },
+      { "lens_id": "057-567-246-168-045" },
+      { "lens_id": "058-072-602-368-812" },
+      { "lens_id": "059-149-073-001-124" },
+      { "lens_id": "060-350-672-466-353" },
+      { "lens_id": "064-909-591-741-94X" },
+      { "lens_id": "066-955-155-273-596" },
+      { "lens_id": "068-190-607-247-307" },
+      { "lens_id": "069-281-143-881-026" },
+      { "lens_id": "071-982-809-922-466" },
+      { "lens_id": "078-247-265-626-266" },
+      { "lens_id": "079-310-940-223-758" },
+      { "lens_id": "081-626-668-059-401" },
+      { "lens_id": "081-681-006-504-547" },
+      { "lens_id": "082-824-948-365-239" },
+      { "lens_id": "089-802-595-581-370" },
+      { "lens_id": "097-485-318-728-585" },
+      { "lens_id": "098-440-015-522-27X" },
+      { "lens_id": "098-517-550-363-47X" },
+      { "lens_id": "100-118-529-144-952" },
+      { "lens_id": "101-025-283-665-611" },
+      { "lens_id": "104-749-253-675-379" },
+      { "lens_id": "105-452-134-173-228" },
+      { "lens_id": "105-459-691-315-606" },
+      { "lens_id": "106-645-508-700-158" },
+      { "lens_id": "114-809-538-696-434" },
+      { "lens_id": "125-136-622-459-381" },
+      { "lens_id": "139-552-118-652-140" },
+      { "lens_id": "142-633-065-734-005" },
+      { "lens_id": "151-068-367-668-856" },
+      { "lens_id": "175-819-758-290-729" },
+      { "lens_id": "177-208-752-209-731" },
+      { "lens_id": "192-697-687-929-866" }
+    ],
+    "source": {
+      "publisher": "Springer Science and Business Media LLC",
+      "title_full": "Journal of Big Data"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00332-7"
+      },
+      {
+        "type": "html",
+        "url": "https://link.springer.com/article/10.1186/s40537-020-00332-7"
+      },
+      { "type": "html", "url": "https://doi.org/10.1186/s40537-020-00332-7" },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/jbd/jbd7.html#PardedeSZRKHYKS20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ],
+        "collective_name": null
+      },
+      {
+        "affiliations": [{ "name": "State University of Malag" }],
+        "collective_name": null
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.443730.7"
+            },
+            "name": "State University of Malang"
+          }
+        ],
+        "collective_name": null
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3046238115" },
+      { "type": "coreid", "value": "327178962" },
+      { "type": "doi", "value": "10.3991/ijim.v14i12.15571" }
+    ],
+    "references": [],
+    "source": {
+      "publisher": "International Association of Online Engineering (IAOE)",
+      "title_full": "International Journal of Interactive Mobile Technologies (iJIM)"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/view/15571"
+      },
+      {
+        "type": "html",
+        "url": "https://www.online-journals.org/index.php/i-jim/article/view/15571"
+      },
+      {
+        "type": "pdf",
+        "url": "https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jim/article/download/15571/7565"
+      },
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/ijim/ijim14.html#FadilahMW20"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ],
+        "collective_name": null
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "ID" }],
+              "id": "grid.9581.5"
+            },
+            "name": "University of Indonesia"
+          }
+        ],
+        "collective_name": null
+      },
+      {
+        "affiliations": [
+          {
+            "grid": {
+              "addresses": [{ "country_code": "TW" }],
+              "id": "grid.45907.3f"
+            },
+            "name": "National Taiwan University of Science and Technology"
+          }
+        ],
+        "collective_name": null
+      }
+    ],
+    "external_ids": [
+      { "type": "magid", "value": "3002740733" },
+      { "type": "doi", "value": "10.1109/jiot.2020.2968091" }
+    ],
+    "references": [
+      { "lens_id": "001-719-063-974-421" },
+      { "lens_id": "002-543-121-437-596" },
+      { "lens_id": "008-641-399-951-466" },
+      { "lens_id": "016-524-529-100-22X" },
+      { "lens_id": "019-504-120-153-984" },
+      { "lens_id": "035-218-366-214-321" },
+      { "lens_id": "037-370-130-320-207" },
+      { "lens_id": "038-055-893-362-364" },
+      { "lens_id": "038-385-012-875-39X" },
+      { "lens_id": "042-370-356-016-68X" },
+      { "lens_id": "046-437-541-516-060" },
+      { "lens_id": "052-200-862-713-024" },
+      { "lens_id": "058-729-224-765-020" },
+      { "lens_id": "062-248-167-816-852" },
+      { "lens_id": "063-506-072-428-65X" },
+      { "lens_id": "069-771-084-207-956" },
+      { "lens_id": "078-632-717-289-450" },
+      { "lens_id": "088-829-418-583-459" },
+      { "lens_id": "095-536-394-560-651" },
+      { "lens_id": "109-855-959-607-301" },
+      { "lens_id": "127-944-937-480-490" }
+    ],
+    "source": {
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "title_full": "IEEE Internet of Things Journal"
+    },
+    "source_urls": [
+      {
+        "type": "html",
+        "url": "https://dblp.uni-trier.de/db/journals/iotj/iotj7.html#SariHC20"
+      },
+      {
+        "type": "html",
+        "url": "https://ieeexplore.ieee.org/document/8964359/"
+      },
+      {
+        "type": "html",
+        "url": "https://scholar.ui.ac.id/en/publications/load-estimation-and-connection-request-barring-for-random-access-"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1176 @@
+@prefix article: <http://example.org/article#>
+@prefix dc: <http://purl.org/dc/terms/>
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+article:001-046-078-138-510
+  dc:identifier "001-046-078-138-510" ;
+  dc:title "Gender-Based Customer Counting System Using Computer Vision for Retail Stores" ;
+  dc:description "The development of modern retail business is gradually getting faster, increasing the level of competition among retailers. The retailers are changing their business strategies to acquire new customers, maintain customer loyalty and improve customer service. One way to indicate the good market performance of a retail shop is to know the number and details of visitors based on gender. The number of visitors in retail shops can be observed by installing CCTV camera. In the existing shop system, CCTV used just for monitoring activities in the retail shop. Therefore, the data from the CCTV camera can be used to calculate the number of visitors based on gender automatically by utilizing computer vision. This study designed a system to count the number of female visitors through video data. The data acquisition process involved 89 people, 41 women and 48 men. The data are stored in .AVI video file format with a resolution of 720×1280 pixels. This system can be divided into three main stages, which are face detection using the Viola-Jones method, feature extraction using Gabor Filter 2D and classification using Support Vector Machine (SVM) method. The result of the study showed that the system can count the number of female and non-female visitors with an accuracy rate of 96.52%. The system performance will be improved by using another feature extraction and classification methods." ;
+dc:creator (
+    "Intan Sari Areni"
+    "Tiwi Nur Safitri"
+    "Indrabayu"
+    "Anugrayani Bustamin"
+  ) ;
+  dc:subject (
+    "Support vector machine"
+    "Loyalty business model"
+    "Artificial intelligence"
+    "Data acquisition"
+    "Viola–Jones object detection framework"
+    "Gabor filter"
+    "Computer vision"
+    "Computer science"
+    "Face detection"
+    "Feature extraction"
+    "File format"
+  );
+  dc:date "2020-04-01" .
+
+article:001-321-217-773-754
+  dc:identifier "001-321-217-773-754" ;
+  dc:title "Anomaly detection in business processes using process mining and fuzzy association rule learning" ;
+  dc:description "Much corporate organization nowadays implement enterprise resource planning (ERP) to manage their business processes. Because the processes run continuously, ERP produces a massive log of processes. Manual observation will have difficulty monitoring the enormous log, especially detecting anomalies. It needs the method that can detect anomalies in the large log. This paper proposes the integration of process mining, fuzzy multi-attribute decision making and fuzzy association rule learning to detect anomalies. Process mining analyses the conformance between recorded event logs and standard operating procedures. The fuzzy multi-attribute decision making is applied to determine the anomaly rates. Finally, the fuzzy association rule learning develops association rules that will be employed to detect anomalies. The results of our experiment showed that the accuracy of the association rule learning method was 0.975 with a minimum confidence level of 0.9 and that the accuracy of the fuzzy association rule learning method was 0.925 with a minimum confidence level of 0.3. Therefore, the fuzzy association rule learning method can detect fraud at low confidence levels." ;
+dc:creator ( 
+    "Riyanarto Sarno"
+    "Fernandes Sinaga"
+    "Kelly Rossa Sungkono"
+  ) ;
+  dc:subject (
+    "Data mining"
+    "Process mining"
+    "Association rule learning"
+    "Enterprise resource planning"
+    "Anomaly (natural sciences)"
+    "Computer science"
+    "Event (computing)"
+    "Fuzzy logic"
+    "Anomaly detection"
+    "Business process"
+  );
+  dc:date "2020-01-09" .
+
+article:001-807-522-275-655
+  dc:identifier "001-807-522-275-655" ;
+  dc:title "Forward and backward motions path following controls of a truck-trailer with references on the head-truck and on the trailer." ;
+  dc:description "Abstract This paper presents new control designs and implementations of truck-trailer path following in forward and backward motions. The path following controls are designed in two modes, which are the controls with reference on the head-truck (RH-control) and with reference on the trailer (RT-control). Both modes aim to converge the distance and orientation errors of the head-truck as well as the trailer with respect to the desired path to zero. Using the designed controls, the asymptotic stabilities of the equilibrium points (i.e., error points equal to zeros) are analyzed using the Lyapunov method. The performances of RH-and RT-controls in controlling the truck-trailer are compared for forward and backward motions. The simulation results show that the RT-controls perform better than the RH-controls and the RT-controls can be applied for a curve-path following in both forward and backward directions. The experimental results of a prototype truck-trailer show the effectiveness of the proposed controls." ;
+dc:creator ( 
+    "Augie Widyotriatmo"
+    "Yul Y. Nazaruddin"
+    "Mohammad Raka Febsya Putranto"
+    "Rizqi Ardhi"
+  ) ;
+  dc:subject (
+    "Orientation (geometry)"
+    "Mobile robot"
+    "Trailer"
+    "Computer science"
+    "Truck"
+    "Lyapunov function"
+    "Control theory"
+    "Path (graph theory)"
+    "Nonlinear control"
+    "Equilibrium point"
+  );
+  dc:date "2020-05-30" .
+
+article:002-246-202-346-409
+  dc:identifier "002-246-202-346-409" ;
+  dc:title "Developing Android-Based Interactive Mobile Learning Software To Improve Students’ Analysis And Synthesis Abilities On Basic Electronics" ;
+  dc:description "This research aims to improve students' analysis and synthesis abilities on electronic component learning material using the Research and Development (R&D) method. Data were obtained from tenth-grade students of the Industrial Electronic Engineering Department in Bandung Regency and analyzed using the pre-test and Post-test with normalized gain. The results showed that during the stages of limited and product operational testing, the developed product tends to improve students' analysis and synthesis abilities in basic electronic learning material with electronic component sub-materials. Therefore, Android-Based Interactive Mobile Learning has succeeded in creating new and effective ways for students to learn." ;
+dc:creator ( 
+    "Toto Ruhimat"
+    "Tata Risdian Rosdiana"
+  ) ;
+  dc:subject (
+    "Electronics"
+    "Operational acceptance testing"
+    "Software"
+    "Electronic learning"
+    "Computer science"
+    "Multimedia"
+    "Android (operating system)"
+    "Electronic component"
+  );
+  dc:date "2020-12-11" .
+
+article:003-571-856-175-384
+  dc:identifier "003-571-856-175-384" ;
+  dc:title "Developing an Android-Based Mobile Application for Civic Education Learning" ;
+  dc:description "The study has developed an android-based mobile application that can assist in the teaching-learning process of civic education in senior high schools. As a research-and-development activity, it employed the ADDIE model (Analysis, Design, Development, Implementation, and Evaluation). Based on validation by material experts, the developed application was very feasible to use (89.04%), and the media experts concurred with this assessment (90.78%). During the large-group trials, the application scored between 3.96 and 4.68, meaning that it provides an excellent media or platform with high feasibility for the teaching-learning process of civic education in senior high schools." ;
+dc:creator ( 
+    "Mukhamad Murdiono"
+    "Suyato Suyato"
+    "Elly Nur Rahmawati"
+    "Muhammad Abdul Aziz"
+  )  ;
+  dc:subject (
+    "ADDIE Model"
+    "Computer science"
+    "Multimedia"
+    "Android (operating system)"
+  );
+  dc:date "2020-09-22" .
+
+article:004-285-470-406-978
+  dc:identifier "004-285-470-406-978" ;
+  dc:title "Data augmentation for automated pest classification in Mango farms" ;
+  dc:description "Abstract Mangos are native to South and Southeast Asian regions. They are one of the favorite fruits consumed globally, with an overall estimated consumption reaching up to 50.65 million metric tons in 2017. However, the production of mango is usually severely affected by pests that attack the fruit, stem, root or mango leaf. Addressing the need for an early stage automated or semi-automated pest identification system, the research presented in this paper proposes an advanced machine learning (ML) technique for analyzing large-scale mango fields and identification of the onset of biological threats using computer vision and deep-learning technologies. The ML technique presented in the paper extends the pre-trained VGG-16 deep-learning model to supplement the last layer with a fully connected network training of consisting of 2-layers. In addition, the research presented in the paper also considers the real-world operational conditions commonly faced by Indonesian farmers for collecting and processing visual information obtained from the Mango farms. The sparsity of the dataset availability for effectively training deep-learning network is addressed through the application of data augmentation process that is able to accurately recreate the conditions faced by the farmers. The overall accuracy of the proposed training solution achieved is 73% on the validation dataset and 76% for the testing data. The application of the augmentation transformation function leads to an improvement of 13.43% of accuracy on the testing data." ;
+dc:creator ( 
+    "Kusrini Kusrini"
+    "Suputa Suputa"
+    "Arief Setyanto"
+    "I Made Artha Agastya"
+    "Herlambang Priantoro"
+    "Krishna Chandramouli"
+    "Ebroul Izquierdo"
+  )  ;
+  dc:subject (
+    "Test data"
+    "PEST analysis"
+    "Production (economics)"
+    "Identification system"
+    "Southeast asian"
+    "Computer science"
+    "Process (engineering)"
+    "Identification (information)"
+    "Agricultural engineering"
+  ) .
+
+article:005-449-306-235-833
+  dc:identifier "005-449-306-235-833" ;
+  dc:title "Breaking an image encryption scheme based on Arnold map and Lucas series" ;
+  dc:description "Recently, a novel image encryption based on Arnold scrambling and Lucas series has been proposed in the literature. The scheme design is based on permutation-substitution operations, where Arnold map is used to permute pixels of the image for T rounds, and Lucas sequence is used to mask the image and substitute pixel’s values. The authors of the cryptosystem have already tested their system against several statistical tests to show its robustness from a statistical view. This cryptanalytic paper scrutinizes the security of this cryptosystem in order to evaluate its immunity against conventional attacks. The results and methods adopted in this paper show that besides the statistical tests, we may need a deep cryptanalysis of every newly proposed cryptosystem before possible adoption in real applications. Those security results should be considered in further proposals." ;
+dc:creator ( 
+    "Imad El Hanouti"
+    "Hakim El Fadili"
+    "Khalid Zenkouar"
+  )  ;
+  dc:subject (
+    "Algorithm"
+    "Encryption"
+    "Lucas sequence"
+    "Pixel"
+    "Cryptanalysis"
+    "Scrambling"
+    "Computer science"
+    "Cryptosystem"
+    "Statistical hypothesis testing"
+    "Robustness (computer science)"
+    "Known-plaintext attack"
+    "Key space"
+    "Algorithm"
+    "Encryption"
+    "Lucas sequence"
+    "Cryptography"
+    "Scrambling"
+    "Brute-force attack"
+    "Computer science"
+    "Cryptosystem"
+  );
+  dc:date "2020-10-02" .
+
+article:006-202-055-396-297
+  dc:identifier "006-202-055-396-297" ;
+  dc:title "Application of Artificial Potential Field for Coverage Control with Collision Avoidance Under Sensing Constraints" ;
+  dc:description "In multi-agent coverage control, the Voronoi diagram optimization strategy is widely used. However, the limitation of sensing radius makes Voronoi diagram optimization strategy not suitable to implement. Moreover, when the agent’s dimension and obstacles are considered, the Voronoi diagram cannot deal further due to the collision that may occur. Considering these limitations, power diagram optimization strategy is used. To deal with obstacles, artificial potential field strategy is combined with the power diagram. Despite its simplicity, the numerical study shows that the proposed scheme of coverage control works well under sensing constraints even with the presence of obstacles. The proposed strategy is convergent to the objective without collision with obstacles as well as among the agents." ;
+dc:creator ( 
+    "Adha Imam Cahyadi"
+    "Eki Darmawan"
+    "Wahyu Kurnia Dewanto"
+    "Igi Ardiyanto"
+  )  ;
+  dc:subject (
+    "Collision"
+    "Mathematical optimization"
+    "Dimension (vector space)"
+    "Power diagram"
+    "Scheme (programming language)"
+    "Voronoi diagram"
+    "Collision avoidance"
+    "Coverage control"
+    "Potential field"
+    "Computer science"
+  );
+  dc:date "2020-02-03" .
+
+article:007-853-986-491-853
+  dc:identifier "007-853-986-491-853" ;
+  dc:title "The reliability of routing protocols as an important factor for road safety applications in VANET-based autonomous cars" ;
+  dc:description "The autonomous cars are considered as a tremendous disruptive innovation in the coming years. They enable a driving automation system to replace human drivers to control the vehicle with better recognition, decision and driving skills and ultimately enhance the road users’ experience and traffic safety. They can communicate with other cars as they are ready with the Vehicle to Vehicle (V2V) communication technology based on Vehicular Ad hoc Networks (VANETs). One of the objectives of V2V communication is for the safety of all road users. Adequate reliability of routing protocol is subject of concern and must be taken into account to reach an immense standard of road safety accurately and timely. Having no reliability the critical road safety messages will be useless; consequently, the accident that might happen is unable to prevent or avoid. The purpose of this research is to investigate and analyze the quantitative measure of reliability. The reliabilities of a reactive single-path AODV and a multi-path AOMDV routing protocols that comply with road safety requirements in various traffic conditions are studied. The traffic conditions that may impact the internetworking of autonomous cars include node density, size of road area and speed of the nodes. The methods used in this study are based on simulations by using Network Simulator version-2 (NS2) as a network simulator and Simulation of Urban Mobility (SUMO) as a mobility simulator. The simulation results show that both routing protocols, a single-path AODV and a multi-path AOMDV, satisfy the road safety requirements in some conditions. AODV is better in packet delivery, whereas AOMDV has a better performance on average end to end delay. This study is expected to contribute to the determination of the appropriate protocol for use in road safety applications under certain traffic conditions. In conclusion, the reliability of routing protocol is an essential factor to consider in the operation of VANET-based autonomous cars so that the safety and comfort of road users can be guaranteed." ;
+dc:creator ( 
+    "Ananto Tri Sasongko"
+    "Grafika Jati"
+    "Bob Hardian"
+    "Wisnu Jatmiko"
+  )  ;
+  dc:subject (
+    "Ad hoc On-Demand Distance Vector Routing"
+    "Routing protocol"
+    "Network simulation"
+    "Vehicular ad hoc network"
+    "Internetworking"
+    "Computer network"
+    "End-to-end delay"
+    "Computer science"
+    "Node (networking)"
+    "Wireless ad hoc network"
+  );
+  dc:date "2020-06-01" .
+
+article:008-496-235-316-097
+  dc:identifier "008-496-235-316-097" ;
+  dc:title "Measurements and Cluster-Based Modeling of Vehicle-to-Vehicle Channels With Large Vehicle Obstructions" ;
+  dc:description "A reliable vehicle-to-vehicle (V2V) channel model is necessary for intelligent transportation systems (ITSs) design. Due to the high mobility of vehicles and the low heights of antennas, the line-of-sight (LOS) propagation paths in V2V communications are more likely to be obstructed by large vehicles such as buses. Therefore, it is worthwhile to conduct in-depth investigations on obstructed line-of sight (OLOS) propagation channels caused by vehicle obstructions. In this paper, actual V2V channel measurements with large vehicle obstructions at 5.9 GHz band are conducted. Based on the measured data, it can be found that the obstructions of large vehicles not only cause additional attenuation, but also significantly affect the angular distribution of multipath components (MPCs). In addition, a cluster-based dynamic V2V channel model is proposed for OLOS scenarios. In the proposed model, the influences of vehicle obstructions on path loss, delay and angle dispersion are intuitively embodied as changes in the statistical distribution of MPCs clusters. Finally, the rationality and accuracy of the proposed model is validated by comparing the measured and simulated channels. The results in the paper are useful for enriching the understanding of V2V channels and provide supports for vehicular communication systems design and performance evaluation." ;
+dc:creator ( 
+    "Mi Yang"
+    "Bo Ai"
+    "Ruisi He"
+    "Gongpu Wang"
+    "Liang Chen"
+    "Xue Li"
+    "Chen Huang"
+    "Zhangfeng Ma"
+    "Zhangdui Zhong"
+    "Junhong Wang"
+    "Yujian Li"
+    "Tutun Juhana"
+  )  ;
+  dc:subject (
+    "Dispersion (water waves)"
+    "Communication channel"
+    "Multipath propagation"
+    "Attenuation"
+    "Path loss"
+    "Vehicle-to-vehicle"
+    "Vehicular communication systems"
+    "Computer science"
+    "Simulation"
+    "Intelligent transportation system"
+  ) .
+
+article:010-560-946-575-779
+  dc:identifier "010-560-946-575-779" ;
+  dc:title "FPGA-based implementation of a chirp signal generator using an OpenCL design" ;
+  dc:description "Abstract A novel approach to developing an FPGA-based chirp signal generator using high-level synthesis implementation is proposed. OpenCL, which is a framework used for high-level synthesis (HLS) methodologies, is employed instead of the Verilog/VHDL language to program FPGA. OpenCL has been used for FPGA programming, particularly in high-performance computing applications. Utilizing OpenCL for FPGA development reduces development time because of the high-level abstraction of the code. However, compared to Verilog/VHDL, standard OpenCL does not enable direct access to the FPGA's I/O. In this study, the FPGA needs to access the I/O pins to communicate with the DAC and generate the chirp signal. Thus, direct access to the FPGA I/O pin from the OpenCL environment is required. Therefore, a new OpenCL component is developed to enable the FPGA to communicate with the DAC, thus allowing data streaming to generate the chirp signal. This OpenCL component enables us to stream the data from the FPGA to generate the chirp signal. Here, we demonstrate that by using OpenCL implementation, the FPGA can generate an I/Q chirp signal efficiently. Moreover, the same OpenCL kernel can be employed to generate different bandwidths of the chirp signal without having to reprogram the FPGA. To demonstrate the capability of the system, we generated the I/Q chirp signal from 1 MHz to 5 MHz, 5 MHz to 10 MHz, 10 MHz to 15 MHz and 15 MHz to 20 MHz for a period of 10 µs." ;
+dc:creator ( 
+    "Iman Firmansyah"
+    "Yoshiki Yamaguchi"
+  )  ;
+  dc:subject (
+    "Chirp"
+    "Code (cryptography)"
+    "Generator (computer programming)"
+    "Verilog"
+    "VHDL"
+    "Computer science"
+    "Field-programmable gate array"
+    "Abstraction (linguistics)"
+    "Computer hardware"
+    "Kernel (linear algebra)"
+  ) .
+
+article:011-845-493-298-62X
+  dc:identifier "011-845-493-298-62X" ;
+  dc:title "Development of Wireless Control System for Smart Street Lighting using ESP8266" ;
+  dc:description "In this paper, we report a smart street lighting control system using the ESP8266 which is a low-cost Wi-Fi chip with full TCP/IP stack and microcontroller capability. Our system is equipped with a web server developed in HTML code. Hence, our smart street lighting system can be controlled wirelessly to turn ON or turn OFF, and it can be monitored its environmental condition (i.e., temperature and humidity around the system). All sensors used in this system are pure digitally-outputted sensor: DHT11 to monitor the ambient temperature and humidity and BH1750 to adjust the street light intensity automatically. The dimming technique was applied in the control system by using Pulse Width Modulation (PWM). The system was divided into two main parts: Gateway and Node in which these two parts employ the ESP8266. The Gateway as a coordinator will send a message to the node as an end device (in this work, the streetlight act as a Node). Later, the node will send the ACK to the Gateway. As results, each node can send a message to other nodes." ;
+dc:creator ( 
+    "Syifaul Fuada"
+    "Trio Adiono"
+    "Lindawani Siregar"
+  )  ;
+  dc:subject (
+    "Web server"
+    "Microcontroller"
+    "Control system"
+    "Default gateway"
+    "Lighting control system"
+    "Computer science"
+    "Node (networking)"
+    "Internet protocol suite"
+    "Pulse-width modulation"
+    "Computer hardware"
+  );
+  dc:date "2020-09-11" .
+
+article:013-172-551-515-290
+  dc:identifier "013-172-551-515-290" ;
+  dc:title "Deep learning-based question answering system for intelligent humanoid robot" ;
+  dc:description "The development of Intelligent Humanoid Robot focuses on question answering systems that can interact with people is very limited. In this research, we would like to propose an Intelligent Humanoid Robot with the self-learning capability for accepting and giving responses from people based on Deep Learning and Big Data knowledge base. This kind of robot can be used widely in hotels, universities, and public services. The Humanoid Robot should consider the style of questions and conclude the answer through conversation between robot and user. In our scenario, the robot will detect the user’s face and accept commands from the user to do an action. The question from the user will be processed using deep learning, and the result will be compared to the knowledge base on the system. We proposed our Deep Learning approach, based on Recurrent Neural Network (RNN) encoder, Convolution Neural Network (CNN) encoder, with Bidirectional Attention Flow (BiDAF). Our evaluation indicates that using RNN based encoder with BiDAF gives a higher score, than CNN encoder with the BiDAF. Based on our experiment, our model get 82.43% F1 score and the RNN based encoder will give a higher EM/F1 score than using the CNN encoder." ;
+dc:creator ( 
+    "Widodo Budiharto"
+    "Vincent Andreas"
+    "Alexander Agung Santoso Gunawan"
+  )  ;
+  dc:subject (
+    "Deep learning"
+    "Encoder"
+    "Recurrent neural network"
+    "Artificial intelligence"
+    "Computer science"
+    "Question answering"
+    "Knowledge base"
+    "Humanoid robot"
+    "Convolutional neural network"
+    "Robot"
+  );
+  dc:date "2020-09-16" .
+
+article:013-808-332-355-363
+  dc:identifier "013-808-332-355-363" ;
+  dc:title "AoA-based channel estimation for massive MIMO OFDM communication systems on high speed rails" ;
+  dc:description "Channel estimation is a well-known challenge for wireless orthogonal frequency division multiplexing (OFDM) communication systems with massive antennas on high speed rails (HSRs). This paper investigates this problem and design two practicable uplink and downlink channel estimators for orthogonal frequency division multiplexing (OFDM) communication systems with massive antenna arrays at base station on HSRs. Specifically, we first use pilots to estimate the initial angle of arrival (AoA) and channel gain information of each uplink path through discrete Fourier transform (DFT), and then refine the estimates via the angle rotation technique and suggested pilot design. Based on the uplink angel estimation, we design a new downlink channel estimator for frequency division duplexing (FDD) systems. Additionally, we derive the Cramer-Rao lower bounds (CRLBs) of the AoA and channel gain estimates. Finally, numerical results are provided to corroborate our proposed studies." ;
+dc:creator ( 
+    "Yanrong Zhao"
+    "Wenjing Zhao"
+    "Gongpu Wang"
+    "Bo Ai"
+    "Hervin Hidayat Putra"
+    "Bagus Juliyanto"
+  )  ;
+  dc:subject (
+    "Communications system"
+    "MIMO-OFDM"
+    "Angle of arrival"
+    "Telecommunications link"
+    "Communication channel"
+    "Discrete Fourier transform"
+    "Electronic engineering"
+    "Orthogonal frequency-division multiplexing"
+    "Computer science"
+    "Base station"
+  ) .
+
+article:013-819-757-771-104
+  dc:identifier "013-819-757-771-104" ;
+  dc:title "Factors and Theories for E-Commerce Adoption: A Literature Review" ;
+  dc:description "The development of technology presents e-commerce as an alternative buying and selling place beside the offline shopping center. The growth of e-commerce globally confirms people's acceptance of e-commerce presence. Various theories of technology acceptance have been formulated to determine the factors that drive technology acceptance. The evolution of technology acceptance theory aims to overcome the problem of technology acceptance from various factors. The acceptance of e-commerce is interesting to learn as a reference to determine the right strategy in the future. This study aims to classify the journey of technology acceptance in e-commerce so that it can show the driving factors for the acceptance of e-commerce in the future. This study uses a literature review approach to the use of UTAUT theory in e-commerce. UTAUT technology acceptance theory is a combination of various previous theories. In general, technology acceptance theory uses an approach that is felt by humans. This study reveals that the technological dimension in resolving humanity is an important factor in technology acceptance. Changes in the e-commerce phase play a role in determining the factors that drive their acceptance of the community. Trust becomes an important factor at the beginning of the introduction phase of e-commerce. Meanwhile, user experience as part of the technological dimension becomes an important factor in the determination phase of e-commerce based on its market. The novelty of this research is to offer the development of technology acceptance factors on UTAUT theory. The practical contribution of research as a reference for management in the preparation of future e-commerce strategies through supporting factors for technology acceptance." ;
+dc:creator ( 
+    "Tining Haryanti"
+    "Apol Pribadi Subriadi"
+  )  ;
+  dc:subject (
+    "Technological evolution"
+    "User experience design"
+    "Theories of technology"
+    "Novelty"
+    "Dimension (data warehouse)"
+    "Driving factors"
+    "Computer science"
+    "Knowledge management"
+    "E-commerce"
+  ) .
+
+article:014-439-869-172-255
+  dc:identifier "014-439-869-172-255" ;
+  dc:title "Modelling shares choice to enter in a portfolio using artificial neural networks (ANN)" ;
+  dc:description "Shares choice to enter a portfolio is a good topic in finance and management, as it affects the portfolio performance which is managed by a Fund Manager. In this research, we aim to create an artificial neural network model to choose a share to enter a portfolio based on its financial factors and big data about the financial condition of companies. The artificial neural network model has 15 input nodes of attributes associated with a company’s financial situation, 8 hidden layer nodes, and 1 output node. The accuracy of the model is 85.71%, with a learning rate of 0.05 trained over 2000 iterations." ;
+dc:creator ( 
+    "Adler Haymans Manurung"
+    "Christina Natasha"
+    "Widodo Budiharto"
+  )  ;
+  dc:subject (
+    "Investment management"
+    "Portfolio"
+    "A share"
+    "Artificial neural network model"
+    "Hidden layer"
+    "Computer science"
+    "Operations research"
+    "Node (networking)"
+    "Artificial neural network"
+    "Big data"
+  );
+  dc:date "2020-03-09" .
+
+article:015-253-353-525-532
+  dc:identifier "015-253-353-525-532" ;
+  dc:title "Effect of Online-Based Concept Map on Student Engagement and Learning Outcome." ;
+  dc:description "<jats:p>One of the success factors in online learning is student engagement. Therefore, the use of technology to influence student engagement in meaningful and effective learning experiences is worthy for investigation. Concept mapping is an effective knowledge construction strategy to help students. This study investigates the influence of concept maps as a formative assessment of online learning and its impact on student engagement and learning outcomes. The design of experiment used the non-equivalent comparison group pretest-posttest. It was included in the quasi-experiment to compare two different groups. The results reveal strong evidence that concept mapping not only improves learning outcomes, but also increases student engagement in all types of tested engagements, namely behavioral, emotional, and cognitive.</jats:p>" ;
+dc:creator ( 
+    "Izzul Fatawi"
+    "I Nyoman Sudana Degeng"
+    "Punaji Setyosari"
+    "Saida Ulfa"
+    "Tsukasa Hirashima"
+  )  ;
+  dc:subject (
+    "Mathematics education"
+    "Outcome (game theory)"
+    "Instructional design"
+    "Student engagement"
+    "Concept map"
+    "Learner engagement"
+    "Electronic learning"
+    "Computer science"
+    "Formative assessment"
+    "Distance education"
+  ) .
+
+article:018-438-712-773-619
+  dc:identifier "018-438-712-773-619" ;
+  dc:title "The Impact of Pair Programming on the Performance of Slow-Paced Students: A Study on Data Structure Courses" ;
+  dc:description "<jats:p>A study shows that pair programming can help slow-paced students in completing Introductory Programming assessment. This paper replicates the study on Data Structure course, in which the completion of the assessments does not only rely on logic but also theoretical knowledge. The aim is to check whether pair programming is still helpful on such new assessment characteristics. Three classes of Data Structure course with 14 teaching weeks and a total of 72 undergraduate students are considered in this study. Two of the classes are about Basic Data Structure while another one is the advanced one. Our evaluation shows that pair programming can help slow-paced students in both pair and individual academic performance. It also increases overall academic performance if the tasks are more logic oriented. Nevertheless, no benefits provided for fast-paced students paired to the slow-paced ones, even though all students appreciate the use of pair programming.</jats:p>" ;
+dc:creator ( 
+    "Mewati Ayub"
+    "Oscar Karnalim"
+    "Laurentius Risal"
+    "Maresha Caroline Wijanto"
+  )  ;
+  dc:subject (
+    "Data structure"
+    "Pair programming"
+    "Programming language"
+    "Computer science"
+  );
+  dc:date "2020-12-09" .
+
+ article:019-081-069-746-01X
+  dc:identifier "019-081-069-746-01X" ;
+  dc:title "Development of Guided Inquiry Based Learning Materials Enriched with Augmented Reality in Electrolysis Cell Material" ;
+  dc:description "In electrolysis cell chemistry learning material students still experience Difficulties related to chemical material roomates characteristics include three levels of representation macroscopic, submicroscopic, and symbolic. Therefore, the chemistry should be taught by inquiry strategies must be supported a program that is Able to visualize particulate material aspects in an electrolytic cell, such as Augmented Reality. The purpose of this study was to produce guided inquiry-based teaching materials assisted by Augmented Reality on the topic of electrolysis cells. . The development of teaching materials is Carried out in three stages namely (1) analysis phase, (2) design phase, and (3) development stage. Teaching materials are validated by three expert validator. The results of the validation Obtained a percentage of 87. 6% for aspects of the assessment in terms of media, 86.1% for aspects of the assessment in terms of material and 87.4% for the readability test. This indicate that the chemistry teaching material that has been developed is included in the very feasible category so that it can be used as a support in learning activities electrolysis cell material" ;
+dc:creator ( 
+    "Nevia Pradani"
+    "Munzil Munzil"
+    "M. Muchson"
+  )  ;
+  dc:subject (
+    "Augmented reality"
+    "Engineering drawing"
+    "Inquiry-based learning"
+    "Readability test"
+    "Particulate material"
+    "Design phase"
+    "Validator"
+    "Computer science"
+    "Representation (mathematics)"
+  );
+  dc:date "2020-07-31" .
+
+article:019-342-003-489-586
+  dc:identifier "019-342-003-489-586" ;
+  dc:title "Impact of rail transit station proximity to commercial property prices: utilizing big data in urban real estate" ;
+  dc:description "Urban transport investments have contributed to the exponential increase of value from land and properties around the built infrastructure. Although literature had shown evidence of value uplift from the residential property due to transit development, little is known about the impact on commercial property values. This paper aims to evaluate the impact of rail transit proximity to the commercial property market by taking into account the pre-operation of the LRT project in Jakarta, Indonesia. This study utilizes a big data approach to accelerate research data processing by employing data mining method, as well as geographical information system (GIS) and hedonic price modeling (HPM) to investigate the property prices to formulate empirical evidence for the research. The results show opposite evidence compared to previous studies which argued that accessibility may contribute to the property price when closer to the transit station. The findings indicate that proximity to rail transit has an insignificant impact on the commercial property price compared to other variables such as building size, number of rooms, location, and hospitals. A comparison of the findings between this research with other studies was discussed and recommendation for further research development was proposed." ;
+dc:creator ( 
+    "Mohammed Ali Berawi"
+    "Perdana Miraj"
+    "Gunawan Saroji"
+    "Mustika Sari"
+  )  ;
+  dc:subject (
+    "Environmental economics"
+    "Empirical evidence"
+    "Information system"
+    "Property (philosophy)"
+    "Value (economics)"
+    "Value capture"
+    "Transit (satellite)"
+    "Computer science"
+    "Big data"
+    "Real estate"
+  );
+  dc:date "2020-09-02" .
+
+article:020-878-849-910-304
+  dc:identifier "020-878-849-910-304" ;
+  dc:title "Energy-efficient 5G cloud RAN with virtual BBU server consolidation and base station sleeping" ;
+  dc:description "Abstract Heterogeneous network (HetNet) deployment where macro cells are overlaid by small cells is considered a de-facto solution for meeting the ever increasing mobile traffic demand in fifth generation (5G) networks. However, deployment of a large number of small cell base stations (BSs) result in considerable increase in HetNet energy consumption. Cloud radio access networks (C-RAN) has been proposed as an energy-efficient architecture that leverages cloud computing technology where baseband processing is performed in virtual baseband units (vBBU) in the BS cloud. In this paper, we address the energy efficiency (EE) optimization problem in the downlink for two-tier heterogeneous C-RAN (H-CRAN) comprising of macro and pico-cells. At the radio side of H-CRAN, a dynamic pico BS switching OFF algorithm based on a utility function is proposed while maintaining coverage and quality of service (QoS). In the cloud side, heuristic approximation algorithms are proposed including simulated annealing (H-CRAN SA) and genetic algorithm (H-CRAN GA) to minimize energy consumption by reducing the number of BBU servers used through vBBU placement. The proposed scheme is compared with distributed long term evolution advanced (LTE-A) Hetnet system and simulation results show that the proposed H-CRAN SA and H-CRAN GA schemes save 48% and 45% of energy on a daily average, respectively while maintaining the required QoS." ;
+dc:creator ( 
+    "Tshiamo Sigwele"
+    "Yim Fun Hu"
+    "Misfa Susanto"
+  )  ;
+  dc:subject (
+    "Heterogeneous network"
+    "Efficient energy use"
+    "Energy consumption"
+    "Computer network"
+    "Computer science"
+    "Quality of service"
+    "Baseband"
+    "Base station"
+    "Cloud computing"
+    "Server"
+  ) .
+
+article:021-551-937-921-195
+  dc:identifier "021-551-937-921-195" ;
+  dc:title "Robust adaptive multivariate Hotelling's T2 control chart based on kernel density estimation for intrusion detection system" ;
+  dc:description "Abstract The utilization of conventional multivariate control chart in network intrusion detection will deal with two main problems. First, the high false alarm occurs due to the distribution of network traffic data that is not following the theory. Second, the inability of the control chart to detect outliers caused by the masking effect. To overcome these problems, the multivariate control chart based on the fast minimum covariance determinant (MCD) algorithm and kernel density estimation (KDE) is proposed in this paper. The employment of KDE technique is expected to adaptively follow the network traffic data pattern, thereby reducing the occurrence of false alarms. Meanwhile, the usage of Fast-MCD will improve the capabilities of the proposed control chart to quickly and accurately detect the outliers. For the simulated data, the proposed chart shows a better level of accuracy when it is compared to conventional T2 and other robust T2 based on successive difference covariate matrix (SDSM) charts. For the data generated from some distributions, the proposed chart shows its adaptability by producing low false alarm with high detection rate. The proposed chart shows excellent performance to monitor the KDD99 dataset with 98.61% accuracy, NSL-KDD dataset with 91.71% accuracy, and UNSW-NB 15 dataset with 91.02% accuracy. The proposed method has consistent performance when monitoring the small subset of the datasets, which can minimize the computational time by more than 90% without decreasing its level of accuracy and precision. Also, the performance from the proposed chart surpasses the other benchmarks." ;
+dc:creator ( 
+    "Muhammad Ahsan"
+    "Muhammad Mashuri"
+    "Muhammad Hisyam Lee"
+    "Heri Kuswanto"
+    "Dedy Dwi Prastyo"
+  )  ;
+  dc:subject (
+    "Artificial intelligence"
+    "Multivariate statistics"
+    "Covariance"
+    "Pattern recognition"
+    "Chart"
+    "Control chart"
+    "False alarm"
+    "Intrusion detection system"
+    "Computer science"
+    "Kernel density estimation"
+    "Outlier"
+  ) .
+
+article:021-983-305-627-296
+  dc:identifier "021-983-305-627-296" ;
+  dc:title "Smart Online Courses Using Computational Intelligence" ;
+  dc:description "Computer network security has become an important issue in recent decades, the government and several international organizations have invested in professional education and training for computer network security. In addition, with the increasing incidence of computer network security crimes, the government and several organizations have taken precautions by providing training to students about computer network security. Some parties develop learning models that are suitable for students and find appropriate learning methods to produce professionals in the field of computer network security that is more effective. The purpose of this study is to design a framework-based Learning system in the form of an Adaptive Online Open Course in Computer System Security Subjects for Information Technology (IT) students. The benefits of this framework are to enhance students' skills and abilities in industrial-based computer network security, startup companies and the ability to complete CTF competitions in IT network security. The framework designed is Adaptive in which students learn according to the interests and topics of Computer Network Security. Interest-based on students in completing the pretest per topic. Testing in this study is testing the impact and improvement of students' learning abilities and skills on Computer Security and Security System Competence testing in a small group consisting of 20 students by seeing the success of completing 3 CTF Topics with each topic totaling 100 computer network security problems in the CTF competition, the average validation result was 83.01% and the CTF exam passing rate was 93%" ;
+dc:creator ( 
+    "Irawan Dwi Wahyono"
+    "Djoko Saryono"
+    "Khoirudin Asfani"
+    "Muhammad Ashar"
+    "Sunarti Sunarti"
+  )  ;
+  dc:subject (
+    "Competence (human resources)"
+    "Engineering management"
+    "Information technology"
+    "Computational intelligence"
+    "Network security"
+    "Learning models"
+    "Learning abilities"
+    "Learning methods"
+    "Computer science"
+    "Professional development"
+  );
+  dc:date "2020-07-31" .
+
+article:023-604-114-020-061
+  dc:identifier "023-604-114-020-061" ;
+  dc:title "A Fuzzy Decision Support Model for Cropland Recommendation of Food Cropping in Indonesia" ;
+  dc:description "Indonesia has an incredibly wide area for agriculture. The agriculture area in Indonesia has specific characteristic for each area (e.g., water capacity, land porosity, land height, etc.,). Furthermore, food crop is the most plant planted in Indonesia; rice, corn, red bean, green bean are some important food crops. The study aims to create a Decision Support Model based on fuzzy logic (FDSM). The model is able to recommend the most suitable food crop to be rationally planted in a specified area. The recommendation is based on distance value between plant and area characteristic value. Two main methods are operated in this study, they are fuzzy logic and Euclidean distance measurement. The method fuzzy logic purposely avoids the ambiguity of parameter value and considers the human linguistic based parameter value. Afterward, the Euclidean distance adopted to calculate the fitness value as a fundamental value for decision recommendation. Here, seven geographic parameters (i.e., water availability, temperature, humidity, land height, land slope, rainfall and land porosity) matched to food crop’s biotic parameters in finding the fittest value. Finally, the model shows a simulation of recommendation for 514 administrative areas of 34 provinces’ district/municipality (in Indonesia) based on five types of food crops (i.e., rice, maize, soybeans, green beans and peanuts)." ;
+dc:creator ( 
+    "Ditdit Nugeraha Utama"
+    "Alvali Zaqi Taufan"
+    "Al Ghifari Hartzani"
+    "Hasfhi Haidi"
+    "Yusuf Ramadhan Lubis"
+    "Wahyu Sardjono"
+  )  ;
+  dc:subject (
+    "Decision support system"
+    "Agriculture"
+    "Euclidean distance"
+    "Cropping"
+    "Crop"
+    "Value (economics)"
+    "Euclidean Distance Measurement"
+    "Computer science"
+    "Fuzzy logic"
+    "Agricultural engineering"
+  );
+  dc:date "2020-04-01" .
+
+article:024-091-078-823-718
+  dc:identifier "024-091-078-823-718" ;
+  dc:title "Decision Support Model for Employee Selection Based on Data Mining and Fuzzy Logic" ;
+  dc:description "This paper explains the use of data mining and fuzzy logic in optimizing decision making for employee recruitment, especially in IT Consultant company. This method addresses the company's need to recruit employees with more objective and accurate by utilizing historical data to find patterns of potential employees for the company. First, classification will be carried out using data mining to determine the predictor attributes of potential employees. These predictor attributes will then be used to arrange fuzzy rule base and fuzzy logic structure which will be used to prioritize employees to be accepted. The results obtained will prioritize employees who are recruited objectively scientifically." ;
+dc:creator ( 
+    "Clarissa Elfira Amos Pah"
+    "Ditdit Nugeraha Utama"
+  )  ;
+  dc:subject (
+    "Decision support system"
+    "Data mining"
+    "Structure (mathematical logic)"
+    "Fuzzy rule"
+    "Employee recruitment"
+    "Employee selection"
+    "Computer science"
+    "Base (topology)"
+    "Fuzzy logic"
+    "Information technology consulting"
+  );
+  dc:date "2020-05-01" .
+
+article:024-420-949-460-233
+  dc:identifier "024-420-949-460-233" ;
+  dc:title "Enhancing the performance of sentiment analysis task on product reviews by handling both local and global context" ;
+  dc:description "Commonly, product review analysis includes extracting sentiment from product documents. The contextual aspect contained in a review document has potential to improve results obtained by the sentiment analysis task. In this regard, this paper proposes an approach that takes into account both local and global context. The main contribution of this work is threefold. Firstly, local context is defined and the graph-based word sense disambiguation (WSD) method is extended to assign the correct sense of a word in the context of a sentence. Secondly, global context is defined for addressing contextual issues related to the specific domain of a review document by using an improved SentiCircle-based method. Thirdly, a weighted mean-based strategy to determine sentiment value at document level is presented. Several experiments were conducted to assess the proposed method. Overall, the proposed method outperformed the baseline method in the metrics of precision, recall, F-measure and accuracy." ;
+dc:creator ( 
+    "Bagus Setya Rintyarna"
+    "Riyanarto Sarno"
+    "Chastine Fatichah"
+  )  ;
+  dc:subject (
+    "Recall"
+    "Graph (abstract data type)"
+    "Artificial intelligence"
+    "Natural language processing"
+    "Sentence"
+    "Product reviews"
+    "Document level"
+    "Computer science"
+    "Word-sense disambiguation"
+    "Sentiment analysis"
+    "Weighted arithmetic mean"
+  ) .
+
+article:026-391-406-999-331
+  dc:identifier "026-391-406-999-331" ;
+  dc:title "A knowledge-based Query Tree with Shortcutting and Couple-Resolution for RFID tag identification" ;
+  dc:description "Abstract In Radio Frequency Identification (RFID) systems, the reader identifies tags through communications over a shared wireless channel. However, when multiple tags transmit their IDs simultaneously, their signals collide, thereby prolonging the identification delay. However, in some applications, the RFID system has the availability of a database containing the IDs of all the tags that may possibly appear. The present study proposes a novel knowledge-based Query Tree with Shortcutting and Couple Resolution (QTSC) protocol for reducing the identification delay in RFID systems with such a database. In the proposed protocol, a knowledge-based query tree is first constructed to store the queries required to identify all the possible tags in the database. Then, at identifying appearing tags, the tags actually appear among possible tags, shortcutting and couple-resolution techniques are employed to skip redundant queries in the query tree and transmit two ID prefixes simultaneously within the same slot, respectively. The simulation results show that compared to the existing knowledge-based protocols, Knowledge Query Tree (KQT) and Heuristic Query Tree (HQT) protocols, QTSC reduces the identification delay by 60.5% and 39.0%, respectively." ;
+dc:creator ( 
+    "Zelalem Legese Hailemariam"
+    "Yuan-Cheng Lai"
+    "Riyanto Jayadi"
+    "Yen-Hung Chen"
+    "Sheng-Chi Huang"
+  )  ;
+  dc:subject (
+    "Resolution (logic)"
+    "Prefix"
+    "Communication channel"
+    "Heuristic (computer science)"
+    "Radio-frequency identification"
+    "Computer network"
+    "Computer science"
+    "Wireless"
+    "Identification (information)"
+    "Protocol (object-oriented programming)"
+  ) .
+
+article:026-777-396-769-146
+  dc:identifier "026-777-396-769-146" ;
+  dc:title "NSGA-II variants for solving a social-conscious dual resource-constrained scheduling problem" ;
+  dc:description "Abstract This present study compares various non-dominated sorting genetic algorithm II (NSGA-II) variants to deal with multi-task simultaneous supervision dual resource-constrained (MTSSDRC) scheduling to minimize the makespan and workload unbalance among operators. MTSSDRC is a complex problem that needs to integrate two types of scheduling, i.e., job sequencing on the machines and task sequencing, which includes setup, unloading, and moving, by the operators. Since there are two resources, one may be busier than the other. Task sequencing should be prioritized if the operator is very busy, otherwise, we should accentuate the job sequencing. The existing NSGA-II variant prioritizes the machine assignment over the operator. Therefore, its performance is not so well when the operator-to-machine ratio is small. Thus, this proposed research develops two new NSGA-II variants identified by their modified decoding schemes. They posit the operator more important or at least equal to the machine. To the best of our knowledge, this research is the first to analyze MTSDDRC based on the operator-to-machine ratio. The essential finding insists that each variant fits the specific ratio. The new ones are promising for cases with a ratio ⩽ 0.5 . Otherwise, the existing variant is still recommended. Besides, one of the new decoding schemes performs well for all ratio, but not the best." ;
+dc:creator ( 
+    "Muhammad Akbar"
+    "Takashi Irohara"
+  )  ;
+  dc:subject (
+    "Scheduling (computing)"
+    "Mathematical optimization"
+    "Workload"
+    "Resource constrained"
+    "Computer science"
+    "Job shop scheduling"
+    "Decoding methods"
+    "Social consciousness"
+    "Operator (computer programming)"
+  ) .
+
+article:028-978-967-926-98X
+  dc:identifier "028-978-967-926-98X" ;
+  dc:title "The Indonesian National Scientific Repository: A Case Study of Research Data Sharing" ;
+  dc:description "This study discusses the sharing of research data through the Repositori Ilmiah Nasional, the Indonesian national scientific repository, which is managed by the Center for Scientific Data and Documentation, Indonesian Institute of Sciences (Pusat Dokumentasi dan Informasi Ilmiah, Lembaga Ilmu Pengetahuan Indonesia, known by the abbreviation PDDI-LIPI). The purpose of this study is to describe the process of research data sharing and identify supporting factors and obstacles faced in that process. This study uses a qualitative approach, with a case study method. Data collection techniques included field observations and observations on the repository system; semi-structured interviews with several informants, including researchers as well as development and librarian teams; and, analysis of policy documents and guidelines. Through these investigations, we discovered that while the Center has developed a new DataVerse repository system to enable research data sharing, there are still several issues that impede the repository from meeting institutional goals for increased data access. There is a need for additional training and socialization of researchers, to encourage and motivate them to share their research data through this service. Additionally, staff members need to gain competence in the management and curation of data. Researchers and librarians involved in research data sharing activities still face various obstacles in the areas of policy, service visibility, and promotion. This research is expected to increase the awareness of researchers, librarians, and repository development teams about each other’s needs and to aid them in collaborating with each other to optimize the sharing of research of data through the repository." ;
+dc:creator ( 
+    "Deka Anggawira"
+    "Nina Mayesti"
+  )  ;
+  dc:subject (
+    "Indonesian"
+    "Research data"
+    "Computer science"
+    "Knowledge management"
+  );
+  dc:date "2020-04-01" .
+
+article:034-790-181-044-70X
+  dc:identifier "034-790-181-044-70X" ;
+  dc:title "Identifying collaboration dynamics of bipartite author-topic networks with the influences of interest changes" ;
+  dc:description "Knowing driving factors and understanding researcher behaviors from the dynamics of collaborations over time offer some insights, i.e. help funding agencies in designing research grant policies. We present longitudinal network analysis on the observed collaborations through co-authorship over 15 years. Since co-authors possibly influence researchers to have interest changes, by focusing on researchers who could become the influencer, we propose a stochastic actor-oriented model of bipartite (two-mode) author-topic networks from article metadata. Information of scientific fields or topics of article contents, which could represent the interests of researchers, are often unavailable in the metadata. Topic absence issue differentiates this work with other studies on collaboration dynamics from article metadata of title-abstract and author properties. Therefore, our works also include procedures to extract and map clustered keywords as topic substitution of research interests. Then, the next step is to generate panel-waves of co-author networks and bipartite author-topic networks for the longitudinal analysis. The proposed model is used to find the driving factors of co-authoring collaboration with the focus on researcher behaviors in interest changes. This paper investigates the dynamics in an academic social network setting using selected metadata of publicly-available crawled articles in interrelated domains of \"natural language processing\" and \"information extraction\". Based on the evidence of network evolution, researchers have a conformed tendency to co-author behaviors in publishing articles and exploring topics. Our results indicate the processes of selection and influence in forming co-author ties contribute some levels of social pressure to researchers. Our findings also discussed on how the co-author pressure accelerates the changes of interests and behaviors of the researchers." ;
+dc:creator ( 
+    "Diana Purwitasari"
+    "Chastine Fatichah"
+    "Surya Sumpeno"
+    "Christian Steglich"
+    "Mauridhi Hery Purnomo"
+  )  ;
+  dc:subject (
+    "Selection (linguistics)"
+    "Dynamics (music)"
+    "Publishing"
+    "Information extraction"
+    "Data science"
+    "Focus (linguistics)"
+    "Network analysis"
+    "Computer science"
+    "Social network"
+    "Metadata"
+  );
+  dc:date "2020-01-14" .
+
+article:035-157-425-634-515
+  dc:identifier "035-157-425-634-515" ;
+  dc:title "Accuracy Improvement of RSSI-based Distance Localization using Unscented Kalman Filter (UKF) Algorithm for Wi-Fi Tracking Application" ;
+  dc:description "In this report, we perform the digital filter computation using Matlab for Wi-Fi tracking application. This work motivates to improve the accuracy of filter algorithm in the RSSI-based distance localization system. There are several aspects that we can improve, e.g., in the Filter part and Path-loss model. But, in this work, we focus on filter part; Unscented Kalman Filter (UKF) is implemented to replace linear Kalman Filter (KF), which is used in previous work. Based on the performance comparison, UKF has 90% hit ratio while linear KF has only 81.15 % hit ratio. We found that UKF can handle the noise in RSSI. Further work, the UKF algorithm is then embedded on the server system." ;
+dc:creator ( 
+    "Syifaul Fuada"
+    "Trio Adiono"
+    "Prasetiyo Prasetiyo"
+  )  ;
+  dc:subject (
+    "Algorithm"
+    "Filter (video)"
+    "Noise"
+    "Kalman filter"
+    "Focus (optics)"
+    "MATLAB"
+    "Digital filter"
+    "Computer science"
+    "Tracking (particle physics)"
+    "Computation"
+  );
+  dc:date "2020-09-22" .
+
+article:035-836-800-884-239
+  dc:identifier "035-836-800-884-239" ;
+  dc:title "Does Cloud-Based Accounting Information System Harmonize the Small Business Needs?" ;
+  dc:description "Cloud technology is now becoming a valuable resource, as it provides cost-saving business technology. Businesses exist to earn a profit by keeping their capital and expenses low. In an attempt to address the issue, this study employs structural equation model to complement literature on users' technology acceptance behavior. The framework of the study was based on the technology acceptance model (TAM) to better understand the adoption of cloud computing by small businesses owners. This study looks at the perception and attitudes of small businesses (SMEs) towards cloud technology based accounting information systems, therefore, their intention to adopt the technology. Result support the view that perceived usefulness, ease of use and credibility positively influenced SMEs' attitudes towards cloud-based accounting information systems and therefore their intention to adopt the technology. The result enhances literature in the field of cloud-based accounting systems for small businesses." ;
+dc:creator ( 
+    "Bambang Agus Pramuka"
+    "Margani Pinasti"
+  )  ;
+  dc:subject (
+    "Accounting information system"
+    "Data science"
+    "Technology acceptance model"
+    "Small business"
+    "Computer science"
+    "Cloud computing"
+  );
+  dc:date "2020-06-25" .
+
+article:035-997-043-614-959
+  dc:identifier "035-997-043-614-959" ;
+  dc:title "Augmented Reality for Introducing Fuel Cell as Electrochemical Energy Conversion on Vocational School" ;
+  dc:description "Nowadays, one kind of promising energy is fuel cell technology, which produces electricity while hydrogen gas flows from anode to cathode through a membrane. A single fuel cell can be integrated in series as a fuel cell stack. It shows electro-chemical process, where the gas flows from the anode to cathode through a membrane and acts as protons and electrons. Students have plenty of difficulties to understand the concept of the electro-chemical process. Thus, this paper studies the effectiveness of usability of the developed augmented reality (AR) technology for bridging the difficulties in electrochemical process, especially fuel cell energy conversion. AR technology is used as an accomplished tool of a conventional book, where students can learn deeply about the process, such as practicing steps and problem solving using animation. The implementation results show that the developed AR can help students enjoy to study fuel cell energy conversion, which means that the developed AR can support learning process effectively" ;
+dc:creator ( 
+    "Siti Sendari"
+    "Mahfud Jiono"
+    "Markus Diantoro"
+    "Poppy Puspitasari"
+    "Heru Surjanto"
+    "Hadi Nur"
+  )  ;
+  dc:subject (
+    "Energy transformation"
+    "Electrochemical energy conversion"
+    "Augmented reality"
+    "Usability"
+    "Bridging (networking)"
+    "Electricity"
+    "Process engineering"
+    "Computer science"
+    "Cathode"
+    "Anode"
+  );
+  dc:date "2020-07-31" .
+
+article:036-658-364-340-91X
+  dc:identifier "036-658-364-340-91X" ;
+  dc:title "Automatic LIDAR building segmentation based on DGCNN and euclidean clustering" ;
+  dc:description "There has been growing demand for 3D modeling from earth observations, especially for purposes of urban and regional planning and management. The results of 3D observations has slowly become the primary source of data in terms of policy determination and infrastructure planning. In this research, we presented an automatic building segmentation method that directly uses LIDAR data. Previous works have utilized the CNN method to automatically segment buildings. However, the existing body of works have relied heavily on the conversion of LIDAR data into Digital Terrain Model (DTM), Digital Surface Model (DSM), or Digital Elevation Model (DEM) formats. Those formats required conversion of LIDAR data into raster images, which poses challenges to the evaluation of building volumes. In this paper, we collected LIDAR data with unmanned aerial vehicle and directly segmented buildings utilizing the said LIDAR data. We utilized a Dynamic Graph Convolutional Neural Network (DGCNN) algorithm to separate buildings and vegetation. We then utilized Euclidean Clustering to segment each building. We found that the combination of these methods are superior to prior works in the field, with accuracy up to 95.57% and an Intersection Over Union (IOU) score of 0.85." ;
+dc:creator ( 
+    "Ahmad Gamal"
+    "Ari Wibisono"
+    "Satrio Bagus Wicaksono"
+    "Muhammad Alvin Abyan"
+    "Nur Hamid"
+    "Hanif Arif Wisesa"
+    "Wisnu Jatmiko"
+    "Ronny Ardhianto"
+  )  ;
+  dc:subject (
+    "Data mining"
+    "Graph (abstract data type)"
+    "Digital elevation model"
+    "Raster graphics"
+    "3D modeling"
+    "Field (computer science)"
+    "Computer science"
+    "Cluster analysis"
+    "Convolutional neural network"
+    "Segmentation"
+  );
+  dc:date "2020-11-17" .
+
+article:036-912-847-234-944
+  dc:identifier "036-912-847-234-944" ;
+  dc:title "Traditional food knowledge of Indonesia: a new high-quality food dataset and automatic recognition system" ;
+  dc:description "Traditional food knowledge (TFK) is an essential aspect of human life. In terms of sociocultural aspects, TFK is necessary to protect ancestral culture. In terms of health, traditional foods contain better and more natural ingredients compared to the ingredients of processed foods. Considering this background, in this study, data acquisition and automatic food recognition were performed for traditional food in Indonesia. The food images were captured in a professional mini studio. The food image data were captured under the same light intensity, camera settings, and shooting distance from the camera. The parameters were precisely measured and configured with a light intensity meter, adjustable lighting, and a laser distance measurement device. The data of 1644 traditional food images were successfully obtained in the data acquisition process. These images corresponded to 34 types of traditional foods, and 30–50 images were obtained for each type of food. The size of the raw food image data was 53 GB. The data were divided into sets for training, testing, and validation. An automatic recognition system was developed to classify the traditional food of Indonesia. Training was performed using several types of convolutional neural network (CNN) models such as Densenet121, Resnet50, InceptionV3, and Nasnetmobile. The evaluation results indicated that when using a high quality dataset, the automatic recognition system could realize satisfactory area under the receiver operating characteristics (AUROC) and high accuracy, precision, and recall values of more than 0.95." ;
+dc:creator ( 
+    "Ari Wibisono"
+    "Hanif Arief Wisesa"
+    "Zulia Putri Rahmadhani"
+    "Puteri Khatya Fahira"
+    "Petrus Mursanto"
+    "Wisnu Jatmiko"
+  )  ;
+  dc:subject (
+    "Artificial intelligence"
+    "Data acquisition"
+    "Pattern recognition"
+    "Quality (business)"
+    "Recognition system"
+    "Light intensity"
+    "Computer science"
+    "Food quality"
+    "Convolutional neural network"
+    "Food processing"
+    "Process (computing)"
+  );
+  dc:date "2020-08-31" .
+
+article:039-865-321-922-670
+  dc:identifier "039-865-321-922-670" ;
+  dc:title "A Portable Cattle Tagging Based on Muzzle Pattern" ;
+  dc:description "This research focuses on developing an Android-based cattle identification system that is applicable and easy to use. This system uses a Scale Invariant Feature Transform (SIFT) algorithm to extract features from the muzzle images, and Random Sample Consensus (RANSAC) algorithm to eliminate features incompatibility. The system is experimented with four threshold values, i.e. 10, 15, 20, and 30 using a total data of 460 muzzle images.  In the first experiment, 3 images from each individual are used in the training stage and 2 images are used as the data test. In the second experiment, 5 images from each cattle are used in the training stage and 5 images are used as the data test. Data used in training stage are 244 images and in testing stage is 816 images. From the experiment, the highest accuracy rate is 98.1% with threshold values of 15 and 20. The execution time is also calculated to measure the processing time of the system. The average time taken to store an image to the database is 1.3 seconds. The main contribution of this research is technology implementation and more portable muzzle identification for local cattle in Makassar." ;
+dc:creator ( 
+    "Indrabayu Indrabayu"
+    "Ingrid Nurtanio"
+    "Intan Sari Areni"
+    "Sri Rachma Aprilita Bugiwati"
+    "Anugrayani Bustamin"
+    "Muhammad Rahmatullah"
+  )  ;
+  dc:subject (
+    "RANSAC"
+    "Artificial intelligence"
+    "Muzzle"
+    "Identification system"
+    "Technology implementation"
+    "Execution time"
+    "Computer vision"
+    "Computer science"
+    "Android (operating system)"
+    "Scale-invariant feature transform"
+  );
+  dc:date "2020-08-14" .
+  
+article:040-959-858-867-758
+  dc:identifier "040-959-858-867-758" ;
+  dc:title "Conceptual model smart knowledge mapping with process and activity combination quadrant: Finalization and implementation" ;
+  dc:description "Abstract In modern times, the digital transformation of organizations and communities is a necessity to achieve a competitive advantage. Therefore, the ability to map the potential of scattered and diverse digital knowledge sources automatically and quickly is urgent for identifying critical knowledge so that organizations can effectively carry out knowledge management. This research is a finalization of the initial smart knowledge mapping model to fit out the limited scope of validation studied previously; this was done by conducting a mix-method approach methodology to examine validation using interviews, forum group discussions (FGD) and questionnaires. The results of our questionnaire validation were analyzed using the Fuzzy Delphi Method to determine the level of agreement between the experts. This study proposed conceptual model smart knowledge mapping, which consists of eleven components: leadership, IT infrastructure, environment, objective, stakeholder, business process, KM process, valuable digital activity, knowledge resource, advanced computing and KMap content. This study also proposed a process and activity combination quadrant to determine the availability of knowledge resources for implementation of this model." ;
+dc:creator ( 
+    "Shidiq Al Hakim"
+    "Dana Indra Sensuse"
+    "Indra Budi"
+  )  ;
+  dc:subject (
+    "Digital transformation"
+    "Information technology management"
+    "Conceptual model"
+    "Finalization"
+    "Stakeholder"
+    "Computer science"
+    "Process (engineering)"
+    "Knowledge management"
+    "Competitive advantage"
+    "Business process" ).
+
+article:041-472-882-998-864
+  dc:identifier "041-472-882-998-864" ;
+  dc:title "Mobile-based driver sleepiness detection using facial landmarks and analysis of EAR values" ;
+  dc:description "Sleepiness during driving is a dangerous problem faced by all countries. Many studies have been conducted and stated that sleepiness threatens the driver himself and other peoples. The victim not only suffered minor injuries but also many of them ended in death. Nowadays, there are many kinds of studies to improve sleep detection methods. But it faces difficulties such as lack of accuracy, and poor performance of detection; thus the system inadequate works in real-time. Recently, automobile companies have begun manufacturing special equipment to recognize sleepiness driver. However, the technologies are only implemented in certain cars since the price is still quite expensive. Therefore, a system with a comprehensive method is needed to discover the driver's sleepiness accurately at an affordable price. This study proposed driver sleepiness detection implemented on a smartphone. The system is capable to identify closed eyes using the extraction of Facial Landmark points and analysis of a calculation result of the Eye Aspect Ratio (EAR). The System qualified works in real-time since it uses a particular library designed in a mobile application. Based on some experiments that have been done, the proposed method adequate to identify sleepy drivers accurately by 92.85%." ;
+dc:creator ( 
+    "Choirul Huda"
+    "Herman Tolle"
+    "Fitri Utaminingrum"
+  )  ;
+  dc:subject (
+    "Injury prevention"
+    "Landmark"
+    "Closed eyes"
+    "Accident prevention"
+    "Poison control"
+    "Injury control"
+    "Computer security"
+    "Computer science"
+  );
+  dc:date "2020-08-28" .
+
+article:041-475-704-846-415
+  dc:identifier "041-475-704-846-415" ;
+  dc:title "Development of hybrid quality function deployment-analytical network process framework for e-services strategy formulation" ;
+  dc:description "This study aims to develop a framework that can be use in analysing the quality of e-services and formulating strategic steps. The research method used is mixed method. The proposed framework is a combination of quality function deployment and analytical network process (QFD-ANP). The study used questionnaires to determine the quality of e-services, which then would be translated into QFD-ANP for negative-value dimensions. The result framework applied to a case study that is e-services in the Directorate of Licensing and Fishermen Affairs. The final outcome of the case study is a priority sequence of strategies for improving the quality of e-services comprising of seven steps: e-services application training for service providers, setting competency standards for service personnel, simplifying features, make the service provider SOP, update user manual, improving the service receiver's SOP and providing communication facilities through special features in e-services." ;
+dc:creator ( 
+    "Nilam Amalia Pusparani"
+    "Achmad Nizar Hidayanto"
+    "Betty Purwandari"
+    "Nur Fitriah Ayuning Budi"
+    "Suryana Setiawan"
+    "Meidi Kosandi"
+  )  ;
+  dc:subject (
+    "Service provider"
+    "Service quality"
+    "Outcome (game theory)"
+    "Process management"
+    "E-services"
+    "Quality (business)"
+    "Service (business)"
+    "Computer science"
+    "Process (engineering)"
+    "Quality function deployment"
+  ) .
+  
+article:041-753-911-850-844
+  dc:identifier "041-753-911-850-844" ;
+  dc:title "The Effect of Feedback Delay on the Performance of Closed-Loop Rotate Modulations on OFDM/OFDMA Systems" ;
+  dc:description "In this paper, in order to improve the performance of the OFDM/OFDMA system, novel closed-loop rotate modulation is proposed by utilizing feedback channel state information in the complex values. The basic idea of the proposed rotate modulation is the channel equalizer process, which is applied at the transmitter side; therefore, it does not need to insert guard time to anticipate the problem of channel delay spread. With the purpose of distortionless-transmission, in this paper, the rotate modulation equation has been derivated. Based on the simulation results on this proposed system, when the feedback delay has been zero, the resulting system performance has been similar to the one on the Additive White Gaussian Noise channel. In this ideal condition, the received signal has been similar to the transmitted signal although in real condition the process of transmitting the feedback signal will always result in a delay. Simulation results at low-level modulation such as Binary Phase Shift Keying and Quarternary Phase Shift Keying; the system bit error ratio performance has not shown degradation with the feedback delay. However, for higher level modulation such as 16-Quadrature Amplitude Modulation and 64-Quadrature Amplitude Modulation, the feedback delay has caused degradation on the BER curve." ;
+dc:creator ( 
+    "Budi Prasetya"
+    "Adit Kurniawan"
+    "Iskandar Iskandar"
+    "Arfianto Fahmi"
+  )  ;
+  dc:subject (
+    "Channel state information"
+    "Communication channel"
+    "Phase-shift keying"
+    "Amplitude modulation"
+    "Orthogonal frequency-division multiplexing"
+    "Computer science"
+    "Transmitter"
+    "Delay spread"
+    "Bit error rate"
+    "Control theory"
+  );
+  dc:date "2020-08-31" .
+
+article:042-253-208-590-345
+  dc:identifier "042-253-208-590-345" ;
+  dc:title "Email Spam Classification Using Gated Recurrent Unit and Long Short-Term Memory" ;
+  dc:description "High numbers of spam emails have led to an increase in email triage, causing losses amounting to USD 355 million per year. One way to reduce this loss is to classify spam email into categories including fraud or promotions made by unwanted parties. The initial development of spam email classification was based on simple methods such as word filters. Now, more complex methods have emerged such as sentence modeling using machine learning. Some of the most well-known methods for dealing with the problem of text classification are networks with Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). This study focuses on the classification of spam emails, so both the LTSM and GRU methods were used. The results of this study show that, under the scenario without dropout, the LSTM and GRU obtained the same accuracy value of 0.990183, superior to XGBoost, the base model. Meanwhile, in the dropout scenario, LSTM outperformed GRU and XGboost with each obtaining an accuracy of 98.60%, 98.58% and 98.52%, respectively. The GRU recall score was better than that of LSTM and XGBoost in the scenario with dropouts, each obtaining values of 98.98%, 98.92% and 98.15% respectively. In the scenario without dropouts, LSTM was superior to GRU and XGBoost, with each obtaining values of 98.39%, 98.39% and 98.15% respectively." ;
+dc:creator ( 
+    "Iqbal Basyar"
+    "Adiwijaya"
+    "Danang Triantoro Murdiansyah"
+  )  ;
+  dc:subject (
+    "Long short term memory"
+    "Dropout (neural networks)"
+    "Triage"
+    "Sentence"
+    "Email spam"
+    "Speech recognition"
+    "Email classification"
+    "Computer science"
+    "Word (computer architecture)"
+  );
+  dc:date "2020-04-01" .
+
+article:042-634-637-795-348
+  dc:identifier "042-634-637-795-348" ;
+  dc:title "A practical approach to revenue management in passenger train services: A case study of the Indonesian railways Argo Parahyangan" ;
+  dc:description "Abstract We proposed a practical approach to incorporating demand function in pricing optimization and its corresponding capacity allocation problem. Based on the willingness-to-pay approach, demand function was estimated from choice-based conjoint (CBC) data using a combination of hierarchical Bayes estimation, randomized first choice simulation, and cubic spline interpolation. The approach was implemented in the largest intercity passenger train service in Indonesia, assuming two customer segments and four fare classes. Solution to the mixed-integer nonlinear pricing optimization problem was obtained using enumeration. Subsequently, the expected marginal seat revenue heuristic was used in the seat inventory allocation problem." ;
+dc:creator ( 
+    "Fransiscus Rian Pratikto"
+  )  ;
+  dc:subject (
+    "Optimization problem"
+    "Demand curve"
+    "Heuristic (computer science)"
+    "Revenue"
+    "Nonlinear pricing"
+    "Service (business)"
+    "Revenue management"
+    "Spline interpolation"
+    "Computer science"
+    "Operations research"
+  ) .
+
+article:044-290-438-681-563
+  dc:identifier "044-290-438-681-563" ;
+  dc:title "Partial packet in wireless networks: a review of error recovery approaches" ;
+  dc:description "Data transmission in wireless networks is vulnerable to errors, due to the nature of wireless characteristics. As a result, corrupted packets are a common case in wireless data transmissions. Many techniques have been proposed to tackle these issues and one of the recommended techniques is the partial packet recovery (PPR) scheme. There are various existing PPR methods that have been proposed in wireless networks over the past two decades. In addition, the recent works have shown the possibility of network coding along with its capabilities in recovering the partial packets. A review study of PPR approaches in wireless networks is presented in this study. The authors classify the approaches into several groups based on the soft information in the PHY layer. Furthermore, they describe the PPR techniques that have used in each of these groups. Their studies found that there are 24 protocols have been proposed using PPR to improve the performance in wireless networks." ;
+dc:creator ( 
+    "Kurniawan D. Irianto"
+    "Giang T. Nguyen"
+    "Hani Salah"
+    "Frank H. P. Fitzek"
+  )  ;
+  dc:subject (
+    "Wireless network"
+    "Linear network coding"
+    "Network packet"
+    "Physical layer"
+    "Scheme (programming language)"
+    "Soft information"
+    "Computer network"
+    "Computer science"
+    "Wireless"
+    "Data transmission"
+  ) .
+
+article:045-398-461-657-132
+  dc:identifier "045-398-461-657-132" ;
+  dc:title "Multi-level particle swarm optimisation and its parallel version for parameter optimisation of ensemble models: a case of sentiment polarity prediction" ;
+  dc:description "Ensemble learning is increasingly used in sentiment analysis. Determining the parameter settings of ensemble models, however, is not easy. Besides its own parameters, an ensemble model has base-predictors that have their individual parameters. Some ensemble models use a specific base-predictor and could be optimised using standard metaheuristics such as the Particle Swarm Optimisation (PSO) approach. Optimising ensemble models with multiple base-predictor candidates is more complicated and challenging, as there are multiple options to choose from. We therefore propose Multi-Level PSO (ML-PSO) and Parallel ML-PSO (PML-PSO) to optimise the parameters of ensemble models, especially those with multiple base-predictors, for sentiment analysis. The idea is to utilise multiple PSOs as particles of the main PSO. The main PSO optimises ensemble-model parameters and determines the best base-predictor, whereas PSOs within it optimise the corresponding base-predictor’s parameters. Experimental results using Bagging Predictors as the underlying ensemble model show that ML-PSO can improve prediction accuracy, while PML-PSO is able to speed up the processing time and further improve the accuracy." ;
+dc:creator ( 
+    "Gregorius Satia Budhi"
+    "Raymond Chiong"
+    "Sandeep Dhakal"
+  )  ;
+  dc:subject (
+    "Metaheuristic"
+    "Algorithm"
+    "Ensemble forecasting"
+    "Computer communication networks"
+    "Computer science"
+    "Ensemble learning"
+    "Sentiment analysis"
+    "Speedup"
+    "Particle swarm optimization"
+    "Polarity (physics)"
+  );
+  dc:date "2020-07-06" .
+
+article:045-539-078-283-058
+  dc:identifier "045-539-078-283-058" ;
+  dc:title "An Improved Performance of Deep Learning Based on Convolution Neural Network to Classify the Hand Motion by Evaluating Hyper Parameter" ;
+  dc:description "High accuracy in pattern recognition based on electromyography(EMG) contributes to the effectiveness of prosthetics hand development. This study aimed to improve performance and simplify the deep learning pre-processing based on the convolution neural network (CNN) algorithm for classifying ten hand motion from two raw EMG signals. The main contribution of this study is the simplicity of pre-processing stage in classifier machine. For instance, the feature extraction process is not required. Furthermore, the performance of the classifier was improved by evaluating the best hyperparameter in deep learning architecture. To validate the performance of deep learning, the public dataset from ten subjects was evaluated. The performance of the proposed method was compared to other conventional machine learning, specifically LDA, SVM, and KNN. The CNN can discriminate the ten hand-motion based on raw EMG signal without handcrafts feature extraction. The results of the evaluation showed that CNN outperformed other classifiers. The average accuracy for all motion ranges between 0.77 and 0.93. The statistical t-test between using two-channel(CH1 and CH2) and single-channel(CH2) shows that there is no significant difference in accuracy with p-value >0.05. The proposed method was useful in the study of prosthetic hand, which required the simple architecture of machine learning and high performance in the classification." ;
+dc:creator ( 
+    "Triwiyanto Triwiyanto"
+    "I Putu Alit Pawana"
+    "Mauridhi Hery Purnomo"
+  )  ;
+  dc:subject (
+    "Deep learning"
+    "Support vector machine"
+    "Artificial intelligence"
+    "Pattern recognition"
+    "Hand motion"
+    "Kernel (image processing)"
+    "Computer science"
+    "Feature extraction"
+    "Convolutional neural network"
+    "Hyperparameter"
+    "Classifier (UML)"
+  ) .
+
+article:052-202-062-999-721
+  dc:identifier "052-202-062-999-721" ;
+  dc:title "Co-design Structure of Dual-Band LNA and Dual-Band BPF for Radio Navigation Aid Application" ;
+  dc:description "In this paper, a co-design of a dual-band low-noise amplifier (DB-LNA) with a dual-band band-pass filter (DB-BPF) for a radio navigation aid (RNA) application was proposed. The novel development was that the DB-LNA was directly integrated with the DB-BPF instead of connecting the output matching network (OMN) of the DB-LNA to the 50 Ω-port of the DB-BPF. Thus, this DB-BPF had a double function, serving as the DB-BPF and also as the OMN. This architecture was called the co-design structure. ZIN analysis was used to evaluate the co-design network structure. In general, the design procedure was divided into four sections, including (1) DB-BPF, (2) DB-LNA, (3) Cascade DB-LNA and DB-BPF, and (4) Co-design DB-LNA and DB-BPF. The co-design method was applied in an RNA implementation at dual-band frequencies of 113 MHz and 332 MHz. Validation of the proposed structure is confirmed for its accuracy by simulating the impedance characteristic ZIN, S parameter simulation, and measurement results. The key contributions of this paper were that: (1) The co-design structure could reduce the passive component by 31.5%, (2) the total size of the DB-LNA and DB-BPF using the co-design method was smaller than the cascaded method by 11.36%, (3) more light-weight in fabrication due to a smaller size, and (4) finally, the proposed LNA has a higher figure of merit than the other LNA." ;
+dc:creator ( 
+    "Gunawan Wibisono"
+    "Muh Wildan"
+    "Johan Wahyudi"
+    "Ego Widoro"
+    "Teguh Firmansyah"
+  )  ;
+  dc:subject (
+    "Topology"
+    "Figure of merit"
+    "Multi-band device"
+    "Filter (video)"
+    "Electrical impedance"
+    "Amplifier"
+    "Scattering parameters"
+    "Cascade"
+    "Computer science"
+    "Radio navigation"
+  );
+  dc:date "2020-08-29" .
+  
+article:052-315-859-762-263
+  dc:identifier "052-315-859-762-263" ;
+  dc:title "Development of an Instructional System Design Model as a Guideline for Lecturers in Creating a Course Using Blended Learning Approach" ;
+  dc:description "Blended learning is not just merely blending face-to-face and online learning. The biggest challenge is making the right mix of relevant learning settings and teaching strategies to meet the learning outcomes. The latest study showed that research focusing on the instructional system design (ISD) model developments, especially related to blended learning approach, were still limited. This study aims to develop an ISD model that can provide a guideline for lecturers in creating a good course using a blended learning approach. This study applied a formative research method. A series of formative evaluation using several formative data collection techniques were used. They were expert review, one-to-one evaluations, and field tests. This study involved 242 respondents, consists of 7 instructional design and e-learning experts, and 235 lecturers. After conducted a series of formative evaluation stages, respondents able to create a good quality course using the ISD model developed.  Most of them get fair and low scores on the field test 1. The score increased significantly on the field test 2, where 33.6% get excellent scores, 48.2% get good scores, and 28.2% get fair scores. The score also increased significantly on field test 3 60.5% get excellent scores, 33.6% get good scores, and only 5.9% get poor scores. Hence, it can be concluded that the ISD model developed is feasible and usable. It can be used by higher education lecturers in Indonesia as a guideline in creating a course using blended learning approach." ;
+dc:creator ( 
+    "Uwes Anis Chaeruman"
+    "Basuki Wibawa"
+    "Zulfiati Syahrial"
+  )  ;
+  dc:subject (
+    "Higher education"
+    "Mathematics education"
+    "Blended learning"
+    "Instructional design"
+    "Synchronous learning"
+    "Asynchronous learning"
+    "E-learning (theory)"
+    "Test (assessment)"
+    "Computer science"
+    "Formative assessment"
+  );
+  dc:date "2020-08-28" .
+
+article:062-587-951-921-193
+  dc:identifier "062-587-951-921-193" ;
+  dc:title "Plant diseases detection with low resolution data using nested skip connections" ;
+  dc:description "At the moment, there are increasing trends of using deep learning for plant diseases detection. However, their implementations may be difficult in developing countries due to several reasons. First, existing deep learning models are usually trained with images with adequate resolutions. In developing countries however, with limited internet connection, models that would perform well even when data with low resolution are used are needed. Secondly, the generated models are large. Hence, most deep learning based applications are available on-line. Unfortunately, the trend for new deep learning architectures are either have larger models or require a heavy memory usage. So, models with smaller size would be preferred. In this paper, we evaluate various existing deep learning models for plant diseases detection when low resolution data are used. They are: VGGNet, AlexNet, Resnet, Xception, and MobileNet. Our focus is deep convolutional neural network (DCNN) which is commonly applied for image data. We also propose a new DCNN architecture with two branches of concatenated residual networks. It is well known that the deeper the networks the better performance of DCNN. However, DCNN with very deep networks and large number of training parameters is prone to vanishing gradient problems. One solutions for that is to apply residual networks as branches to DCNN. While it is found that increasing the branch of the networks benefit the performance, larger memory are required to train the networks. So, we apply two concatenated residual networks only. We called it Compact Networks (ComNet). We compare our method other with six popular CNN architectures. We evaluate the performance on the PlantVillage dataset and our own dataset. We collected images of tea leaves which consist of 6 classes: 5 classes of diseases that are commonly found in Indonesia and a healthy class. Our experiments show that our method is generally better than referenced DCNN networks." ;
+dc:creator ( 
+    "Hilman F. Pardede"
+    "Endang Suryawati"
+    "Vicky Zilvan"
+    "Ade Ramdan"
+    "R. Budiarianto Suryo Kusumo"
+    "Ana Heryana"
+    "R. Sandra Yuwana"
+    "Dikdik Krisnandi"
+    "Agus Subekti"
+    "Fani Fauziah"
+    "Vitria Puspitasari Rahadi"
+  )  ;
+  dc:subject (
+    "Deep learning"
+    "Image (mathematics)"
+    "Machine learning"
+    "Artificial intelligence"
+    "Residual"
+    "Focus (optics)"
+    "Class (computer programming)"
+    "Computer science"
+    "Moment (mathematics)"
+    "Convolutional neural network"
+    "Internet access"
+  );
+  dc:date "2020-08-05" .
+
+article:062-890-740-646-859
+  dc:identifier "062-890-740-646-859" ;
+  dc:title "Edu-Kit “Our Coffee” Development on Problem Based Learning Model for Vocational Agribusiness and Agrotechnology Programs on Material Separation Mixture" ;
+  dc:description "Student achievement in chemistry is relatively low because chemistry topics are not integrated with students’ expertise programs. The lack of variation in teaching material and learning model also reduces the motivation to study chemistry. One of the science-chemistry materials in vocational high schools is separation of mixture, taught in the agribusiness and agro technology specialization programs. Many business sectors such as cafes are starting to stand in the community, requiring coffee serving skills and also knowledge about coffee that can be viewed from the chemistry side. Chemical changes due to coffee cultivation and the processes through which coffee can be consumed can be learned through interactive and communicative teaching materials One way to present and integrate coffee topics in learning is to develop an Edu-Kit which contains problems in coffee that are integrated with separation of mixture topic. Separation of mixture is contained in the 2013 Curriculum. The choice of problem-based learning models is assessed according to the characteristics of vocational learning, which is to present real problems and solve them while learning the concepts needed. The Edu-Kit development uses the research and development (R&D) method of Borg and Gall. E-book was chosen as an application in the development of Edu-Kit which includes text, sound, picture and video. Validation data were collected from 2 validators and readability tests by students. Data were analyzed using quantitative and qualitative techniques. The effectiveness of the Edu-Kit uses quasi experimental, pretest and posttest designs. There were 62 samples determined by the saturation sampling technique. The sample is divided into two classes, namely the experimental and control classes. Edu-kit effectiveness from posttest scores, analyzed using the Mann Whitney U Test using SPSS. The results of Edu-kit development obtained an average percentage of validation of 91.90% with very decent criteria. While the results of the effectiveness test showed that the use of Edu-kit made students' understanding better in mixed separation material." ;
+dc:creator ( 
+    "Sofiana Nur Fadilah"
+    "Siti Marfu'ah"
+    "Surjani Wonorahardjo"
+  )  ;
+  dc:subject (
+    "Mathematics education"
+    "Agribusiness"
+    "Control (management)"
+    "Readability"
+    "Test (assessment)"
+    "Problem-based learning"
+    "Computer science"
+    "Sample (statistics)"
+    "Curriculum"
+    "Vocational education"
+  );
+  dc:date "2020-07-31"  .
+
+article:063-051-548-935-422
+  dc:identifier "063-051-548-935-422" ;
+  dc:title "Load Estimation and Connection Request Barring for Random Access in Massive C-IoT" ;
+  dc:description "Cellular Internet of Things (C-IoT) is a new term referring to access technology introduced by 3GPP to support IoT applications. C-IoT has several advantages compared to the unlicensed low-power wide area (LPWA) technology. However, C-IoT’s random access (RA) procedure is easily overloaded by massive access from IoT applications. This article proposes a novel mechanism which combines a simple algorithm to assess the instantaneous load and a dynamic tuning of the contention level on the third message of RA. The technical consideration for integrating our mechanism to the existing C-IoT system is also presented. Performance evaluation is conducted under several practical scenarios. The results show that our proposed mechanism brings a significant increase of normalized throughput with the cost of just a slight increase of the access delay compared to the original system. Additional performance comparisons with the other existing approaches which target similar problem are also included. The results show that our mechanism performs well, especially when considering how simple it is to be implemented." ;
+dc:creator ( 
+    "Riri Fitri Sari"
+    "Ruki Harwahyu"
+    "Ray-Guang Cheng"
+  )  ;
+  dc:subject (
+    "Random access"
+    "Throughput (business)"
+    "Narrowband"
+    "SIMPLE (military communications protocol)"
+    "Computer network"
+    "Computer science"
+    "Term (time)"
+    "Internet of Things"
+    "Connection (vector bundle)"
+    "SIMPLE algorithm"
+  ) .

@@ -1,89 +1,50 @@
 .main .content {
-    background: #3aca2c;
-    min-height: 1000px;
-    height: fit-content;
-    padding-bottom: 20px;
-    padding-top: 20px;
+  background: #3aca2c;
+  min-height: 1000px;
+  height: fit-content;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .content .home h1 {
-    text-align: center;
+  text-align: center;
 }
 .content .home h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .content .searchbar-container p {
-    padding-top: 10px;
-    text-align: left;
-    font-size: 14px;
-    color: #fa0606;
+  padding-top: 10px;
+  text-align: left;
+  font-size: 14px;
+  color: #fa0606;
 }
 
 .searchbar-container {
-    padding: 10px;
-    max-width: 500px;
-    margin-left: 34%;
-    background: #FFFFFF;
-    border-radius: 10px;
+  padding: 10px;
+  max-width: 500px;
+  margin-left: 34%;
+  background: #ffffff;
+  border-radius: 10px;
 }
 
 .content .result {
-    margin-left: 10%;
-    margin-right: 10%;
-    background: #FFFFFF;
-    border-radius: 20px;
-    padding: 20px;
-    height: fit-content;
+  margin-left: 10%;
+  margin-right: 10%;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+  height: fit-content;
 }
 
 .content .result h2 {
-    text-align: left;
-}
-
-.result-card {
-    height: fit-content;
+  text-align: left;
 }
 
 .detail-container {
-    padding: 20px;
-    margin: 40px;
-    background: #8cc787;
-    border-radius: 10px;
-    height: fit-content;
-}
-
-.detail-container h2 {
-    text-align: justify;
+  background: #8cc787;
 }
 
 .detail-content {
-    max-width: fit-content;
-    height: fit-content;
-}
-
-
-.detail-content-detail .row .col-7 {
-    margin-left: 20px;
-    border-radius: 10px;
-    border: 2px solid;
-    background: #a4da9f;
-    padding: 20px;
-    height: fit-content;
-}
-
-.detail-content-detail .row .col-4 {
-    margin-left: 20px;
-    border-radius: 10px;
-    border: 2px solid;
-    background: #a4da9f;
-    height: fit-content;
-}
-
-.detail-content-detail .row .col-12 {
-    border-radius: rgba(10px, 10px, 0, 0);
-    border-bottom: 2px solid;
-    background: #a4da9f;
-    height: fit-content;
-
+  background: #a4da9f;
 }
