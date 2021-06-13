@@ -71,7 +71,9 @@ export default {
   methods: {
     ...mapActions(["getArticles"]),
     async fetchArticles(text, category) {
-      if (category === "title") {
+      if (text == "") {
+        this.articleList = await sparqlQuery.getAll(text);
+      } else if (category === "title") {
         this.articleList = await sparqlQuery.getAll(text);
       } else if (category === "author") {
         this.articleList = await sparqlQuery.getByAuthor(text);

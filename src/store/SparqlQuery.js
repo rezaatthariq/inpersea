@@ -128,7 +128,8 @@ export default class SparqlQuery {
         author: [],
         subject: [],
         date: "",
-        suggestion: [],
+        similarTopic: [],
+        sameAuthor: [],
       };
 
       articleRawData.article.data.results.bindings.map((items) => {
@@ -143,25 +144,97 @@ export default class SparqlQuery {
       articleRawData.author.data.results.bindings.map((items) => {
         dataModel.author.push(items.author.value);
       });
+      dataModel.author = dataModel.author.slice(1);
 
       articleRawData.subject.data.results.bindings.map((items) => {
         dataModel.subject.push(items.subject.value);
       });
+      dataModel.subject = dataModel.subject.slice(1);
 
-      for (let index = 0; index < dataModel.subject.length; index++) {
-        if (dataModel.subject[index] !== "Computer science") {
-          dataModel.suggestion = dataModel.suggestion.concat(
-            await this.getBySubject(dataModel.subject[index])
-          );
-        }
+      dataModel.similarTopic = await this.getSimilarTopic(
+        dataModel.id,
+        dataModel.subject
+      );
+      if (dataModel.similarTopic > 1) {
+        dataModel.similarTopic.sort(
+          (a, b) => b.subject.length - a.subject.length
+        );
       }
 
-      console.log(dataModel);
+      dataModel.sameAuthor = await this.getSameAuthor(
+        dataModel.id,
+        dataModel.author
+      );
+      if (dataModel.sameAuthor > 1) {
+        dataModel.sameAuthor.sort(
+          (a, b) => b.subject.length - a.subject.length
+        );
+      }
 
       return dataModel;
     } catch (err) {
       console.error(err);
     }
+  }
+
+  async getSimilarTopic(id, relation) {
+    var suggestions = [];
+    for (let index = 0; index < relation.length; index++) {
+      if (relation[index] !== "Computer science") {
+        var fetchedEntries = {
+          id: "",
+          title: "",
+          author: [],
+          subject: [],
+        };
+        fetchedEntries = await this.getBySubject(relation[index]);
+        fetchedEntries.map((entry) => {
+          if (entry.id != id) {
+            const sameEntry = suggestions.find(
+              (suggestion) => suggestion.id == entry.id
+            );
+            if (sameEntry) {
+              const sameEntryIndex = suggestions.indexOf(sameEntry);
+              suggestions[sameEntryIndex].subject = suggestions[
+                sameEntryIndex
+              ].subject.concat(`, ${entry.subject}`);
+            } else {
+              suggestions.push(entry);
+            }
+          }
+        });
+      }
+    }
+    return suggestions;
+  }
+
+  async getSameAuthor(id, relation) {
+    var suggestions = [];
+    for (let index = 0; index < relation.length; index++) {
+      var fetchedEntries = {
+        id: "",
+        title: "",
+        author: [],
+        subject: [],
+      };
+      fetchedEntries = await this.getByAuthor(relation[index]);
+      fetchedEntries.map((entry) => {
+        if (entry.id != id) {
+          const sameEntry = suggestions.find(
+            (suggestion) => suggestion.id == entry.id
+          );
+          if (sameEntry) {
+            const sameEntryIndex = suggestions.indexOf(sameEntry);
+            suggestions[sameEntryIndex].author = suggestions[
+              sameEntryIndex
+            ].author.concat(`, ${entry.author}`);
+          } else {
+            suggestions.push(entry);
+          }
+        }
+      });
+    }
+    return suggestions;
   }
 
   async getByAuthor(author) {
@@ -201,12 +274,14 @@ export default class SparqlQuery {
             return dataModel.push({
               id: items.id.value,
               title: items.title.value,
+              author: items.author.value,
             });
           }
         }
         return dataModel.push({
           id: items.id.value,
           title: items.title.value,
+          author: items.author.value,
         });
       });
 
@@ -245,8 +320,6 @@ export default class SparqlQuery {
         data: qs.stringify(query),
       });
 
-      console.log(data);
-
       var dataModel = [];
 
       data.results.bindings.map((items, index) => {
@@ -256,16 +329,17 @@ export default class SparqlQuery {
               (item) => item.id.value === items.id.value
             )
           ) {
-            console.log("different");
             return dataModel.push({
               id: items.id.value,
               title: items.title.value,
+              subject: items.subject.value,
             });
           }
         }
         return dataModel.push({
           id: items.id.value,
           title: items.title.value,
+          subject: items.subject.value,
         });
       });
 

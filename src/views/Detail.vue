@@ -44,15 +44,23 @@
                 </li>
               </ul>
             </div>
-            <button @click="articleIdlog()" class="btn btn-outline-danger">
-              Show Data
-            </button>
           </div>
         </div>
       </div>
       <div>
         <h4 class="text-center">Suggestions</h4>
-        <ResultSearch :articleList="currentArticle.suggestion" />
+        <div class="row">
+          <div class="col">
+            <h5 class="text-center">Article with Similar Topic(s)</h5>
+            <div class="row">
+              <Suggestions :articleList="currentArticle.similarTopic" />
+            </div>
+            <div class="col">
+              <h5 class="text-center">Article by Same Author(s)</h5>
+              <Suggestions :articleList="currentArticle.sameAuthor" />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -60,7 +68,7 @@
 
 <script>
 import Navbar from "@/components/Navbar";
-import ResultSearch from "@/components/ResultSearch";
+import Suggestions from "@/components/Suggestions";
 import SparqlQuery from "@/store/SparqlQuery";
 
 const sparqlQuery = new SparqlQuery();
@@ -69,21 +77,27 @@ export default {
   name: "Detail",
   props: ["articleId"],
   methods: {
-    async articleIdlog() {
+    async loadDetail() {
       this.currentArticle = await sparqlQuery.getById(
         this.$route.params.articleId
       );
     },
   },
+  created() {
+    this.loadDetail();
+  },
+  watch() {
+    this.$route.params.articleId;
+  },
   data() {
     return {
       currentarticleId: this.articleId,
-      currentArticle: sparqlQuery.getById(this.$route.params.articleId),
+      currentArticle: [],
     };
   },
   components: {
     Navbar,
-    ResultSearch,
+    Suggestions,
   },
 };
 </script>
