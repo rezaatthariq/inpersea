@@ -2,7 +2,6 @@
   <table class="table table-hover table-responsive">
     <thead>
       <tr>
-        <th scope="col-1">No.</th>
         <th scope="col-3">ID</th>
         <th scope="col-5">Title</th>
         <th scope="col-5" v-if="articleList[0].subject">Similar Topic</th>
@@ -11,8 +10,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-for="(article, index) in articleList" v-bind:key="article.id">
-        <td scope="col-1">{{ index }}</td>
+      <tr v-for="article in articleList" v-bind:key="article.id">
         <td scope="col-4">{{ article.id }}</td>
         <td scope="col-5">{{ article.title }}</td>
         <td scope="col-5" v-if="article.subject">{{ article.subject }}</td>
@@ -31,13 +29,8 @@
 
 <script>
 export default {
-  name: "ResultSearch",
+  name: "Suggestions",
   props: ["articleList"],
-  data() {
-    return {
-      articles: this.articleList,
-    };
-  },
 };
 </script>
 

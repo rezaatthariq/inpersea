@@ -15,6 +15,9 @@ const routes = [
     path: "/article/:articleId",
     name: "Article Detail",
     component: Detail,
+    props: (route) => ({
+      articleId: route.params.articleId,
+    }),
   },
   {
     path: "/about",

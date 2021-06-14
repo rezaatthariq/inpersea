@@ -16,7 +16,7 @@
       </thead>
       <tbody>
         <tr v-for="(article, index) in articleList" v-bind:key="article.id">
-          <td scope="col-1">{{ index }}</td>
+          <td scope="col-1">{{ index + 1 }}</td>
           <td scope="col-4">{{ article.id }}</td>
           <td scope="col-5">{{ article.title }}</td>
           <td>

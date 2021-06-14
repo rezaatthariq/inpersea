@@ -1,7 +1,15 @@
 services:
   fuseki:
+    container_name: inpersea_fuseki
     image: stain/jena-fuseki:latest
     environment:
       ADMIN_PASSWORD: "semweb2021"
+      FUSEKI_DATASET_1: "article"
+    # entrypoint: ["./load.sh", "article", "article.ttl"]
     ports:
       - 3030:3030
+    volumes:
+      - fuseki_data:/fuseki
+      - ./datasets:/staging
+volumes:
+  fuseki_data:
