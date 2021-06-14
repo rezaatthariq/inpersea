@@ -49,6 +49,7 @@
       </div>
       <div>
         <h4 class="text-center">Suggestions</h4>
+        <br />
         <div class="row">
           <div class="col" v-if="this.currentArticle.similarTopic.length > 0">
             <h5 class="text-center">Article with Similar Topic(s)</h5>
@@ -90,6 +91,11 @@ export default {
   watch: {
     articleId: function() {
       this.loadDetail();
+    },
+  },
+  computed: {
+    rows() {
+      return this.articleList.length;
     },
   },
   components: {

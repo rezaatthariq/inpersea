@@ -36,8 +36,10 @@ export default class SparqlQuery {
         return {
           id: items.id.value,
           title: items.title.value,
+          link: `/article/${items.id.value}`
         };
       });
+      console.log(remappedData);
 
       return remappedData;
     } catch (err) {
@@ -275,6 +277,7 @@ export default class SparqlQuery {
               id: items.id.value,
               title: items.title.value,
               author: items.author.value,
+              link: `/article/${items.id.value}`
             });
           }
         }
@@ -282,6 +285,7 @@ export default class SparqlQuery {
           id: items.id.value,
           title: items.title.value,
           author: items.author.value,
+          link: `/article/${items.id.value}`
         });
       });
 
@@ -333,6 +337,7 @@ export default class SparqlQuery {
               id: items.id.value,
               title: items.title.value,
               subject: items.subject.value,
+              link: `/article/${items.id.value}`
             });
           }
         }
@@ -340,6 +345,7 @@ export default class SparqlQuery {
           id: items.id.value,
           title: items.title.value,
           subject: items.subject.value,
+          link: `/article/${items.id.value}`
         });
       });
 
